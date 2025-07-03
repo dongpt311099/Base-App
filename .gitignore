@@ -1,0 +1,33 @@
+# Android/IntelliJ
+.idea/
+*.iml
+
+# Gradle
+.gradle/
+build/
+*/build/
+
+# Local Properties
+local.properties
+
+# Keystore files
+*.jks
+*.keystore
+signing.properties
+
+# Log
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Kotlin/Java
+*.class
+
+# Captures
+captures/
+
+# Others
+*.apk
+*.aar

@@ -31,7 +31,23 @@
             android:name="com.example.baseapplication.ui.activity.FeedBackActivity"
             android:exported="false" />
         <activity
+            android:name="com.example.baseapplication.ui.activity.Currency_unit"
+            android:exported="false" />
+        <activity
+            android:name="com.example.baseapplication.ui.activity.MainActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.baseapplication.ui.activity.Language"
+            android:exported="false"
+            android:theme="@style/Theme.BaseApplication" />
+        <activity
+            android:name="com.example.baseapplication.ui.activity.IntroActivity"
+            android:exported="false" />
+        <activity
             android:name="com.example.baseapplication.ui.activity.ContentActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.baseapplication.ui.activity.Splash"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -39,6 +55,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="androidx.compose.ui.tooling.PreviewActivity"
+            android:exported="true" />
 
         <provider
             android:name="androidx.startup.InitializationProvider"
@@ -54,6 +73,13 @@
                 android:name="androidx.profileinstaller.ProfileInstallerInitializer"
                 android:value="androidx.startup" />
         </provider>
+
+        <uses-library
+            android:name="androidx.window.extensions"
+            android:required="false" />
+        <uses-library
+            android:name="androidx.window.sidecar"
+            android:required="false" />
 
         <receiver
             android:name="androidx.profileinstaller.ProfileInstallReceiver"

@@ -16,7 +16,23 @@
             android:name=".ui.activity.FeedBackActivity"
             android:exported="false" />
         <activity
+            android:name=".ui.activity.Currency_unit"
+            android:exported="false" />
+        <activity
+            android:name=".ui.activity.MainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.activity.Language"
+            android:exported="false"
+            android:theme="@style/Theme.BaseApplication" />
+        <activity
+            android:name=".ui.activity.IntroActivity"
+            android:exported="false" />
+        <activity
             android:name=".ui.activity.ContentActivity"
+            android:exported="false"/>
+        <activity
+            android:name=".ui.activity.Splash"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

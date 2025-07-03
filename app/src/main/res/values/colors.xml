@@ -12,4 +12,6 @@
     <color name="optfeed_txt">#888888</color>
     <color name="opt_selector">#0057FF</color>
     <color name="transparent">#00000000</color>
+    <color name="_5d5d5d">#5D5D5D</color>
+    <color name="_3d3d3d">#3D3D3D</color>
 </resources>
