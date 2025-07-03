@@ -10,15 +10,15 @@ import androidx.viewpager2.widget.ViewPager2
 import com.example.baseapplication.R
 import com.example.baseapplication.databinding.ActivityIntroBinding
 import com.example.baseapplication.ui.fragment.IntroPagerAdapter
-import com.tbuonomo.viewpagerdotsindicator.DotsIndicator
 
 class IntroActivity : BaseActivity() {
     private lateinit var binding : ActivityIntroBinding
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
         binding= ActivityIntroBinding.inflate(layoutInflater)
-        setContentView(R.layout.activity_intro)
+        setContentView(binding.root)
 
         val viewPager = binding.viewPager
         val nextText = binding.nextIntro1
