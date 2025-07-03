@@ -2190,6 +2190,8 @@ int color primary_text_disabled_material_light 0x7f0502fe
 int color purple_200 0x7f0502ff
 int color purple_500 0x7f050300
 int color purple_700 0x7f050301
+int color red 0x7f050317
+int color reset_color 0x7f050318
 int color ripple_material_dark 0x7f050302
 int color ripple_material_light 0x7f050303
 int color secondary_text_default_material_dark 0x7f050304
@@ -3099,6 +3101,7 @@ int drawable abc_vector_test 0x7f07007d
 int drawable avd_hide_password 0x7f07007e
 int drawable avd_show_password 0x7f07007f
 int drawable background 0x7f070080
+int drawable background_inputfield 0x7f070122
 int drawable background_splash 0x7f070081
 int drawable btn_background 0x7f070082
 int drawable btn_cancel_exit 0x7f070083
@@ -3126,6 +3129,7 @@ int drawable flag4 0x7f070098
 int drawable green_flag 0x7f070099
 int drawable ic_arrow 0x7f07009a
 int drawable ic_arrow_back_black_24 0x7f07009b
+int drawable ic_arrow_down 0x7f070123
 int drawable ic_bell 0x7f07009c
 int drawable ic_call_answer 0x7f07009d
 int drawable ic_call_answer_low 0x7f07009e
@@ -3160,6 +3164,7 @@ int drawable ic_select 0x7f0700ba
 int drawable ic_settings 0x7f0700bb
 int drawable ic_share 0x7f0700bc
 int drawable ic_tools 0x7f0700bd
+int drawable ic_vietnam 0x7f070125
 int drawable icon_app 0x7f0700be
 int drawable imag_pkge 0x7f0700bf
 int drawable image_intro1 0x7f0700c0
@@ -3249,6 +3254,7 @@ int drawable notify_panel_notification_icon_bg 0x7f070113
 int drawable radio_button 0x7f070114
 int drawable radio_button_selected 0x7f070115
 int drawable selector_optfeed_background 0x7f070116
+int drawable selector_resetbtn 0x7f070124
 int drawable selector_sendbtn 0x7f070117
 int drawable spring_dot_background 0x7f070118
 int drawable spring_dot_stroke_background 0x7f070119
@@ -3417,6 +3423,8 @@ int id continuousVelocity 0x7f080099
 int id coordinator 0x7f08009a
 int id cos 0x7f08009b
 int id counterclockwise 0x7f08009c
+int id country_after 0x7f080254
+int id country_before 0x7f080255
 int id cradle 0x7f08009d
 int id currencyItem 0x7f08009e
 int id currencyName 0x7f08009f
@@ -3474,7 +3482,9 @@ int id end 0x7f0800d2
 int id endToStart 0x7f0800d3
 int id enterAlways 0x7f0800d4
 int id enterAlwaysCollapsed 0x7f0800d5
+int id error_txt 0x7f080256
 int id escape 0x7f0800d6
+int id exchange_btn 0x7f08025a
 int id exitUntilCollapsed 0x7f0800d7
 int id expand_activities_button 0x7f0800d8
 int id expanded_menu 0x7f0800d9
@@ -3516,6 +3526,7 @@ int id honorRequest 0x7f0800fc
 int id horizontal 0x7f0800fd
 int id horizontal_only 0x7f0800fe
 int id ic_error 0x7f0800ff
+int id ic_flag 0x7f08025b
 int id icon 0x7f080100
 int id iconSetting 0x7f080101
 int id icon_group 0x7f080102
@@ -3588,6 +3599,8 @@ int id matrix 0x7f080144
 int id message 0x7f080145
 int id middle 0x7f080146
 int id mini 0x7f080147
+int id money_after 0x7f080257
+int id money_before 0x7f080258
 int id month_grid 0x7f080148
 int id month_navigation_bar 0x7f080149
 int id month_navigation_fragment_toggle 0x7f08014a
@@ -3689,6 +3702,7 @@ int id rateBtn 0x7f0801a9
 int id ratio 0x7f0801aa
 int id rectangles 0x7f0801ab
 int id report_drawn 0x7f0801ac
+int id reset_btn 0x7f080259
 int id restart 0x7f0801ad
 int id return_btn 0x7f0801ae
 int id reverse 0x7f0801af
@@ -3830,6 +3844,7 @@ int id tvShow 0x7f080236
 int id txtTitle 0x7f080237
 int id unchecked 0x7f080238
 int id uniform 0x7f080239
+int id unit 0x7f08025c
 int id unlabeled 0x7f08023a
 int id up 0x7f08023b
 int id useLogo 0x7f08023c
@@ -3973,6 +3988,7 @@ int layout abc_select_dialog_material 0x7f0b001a
 int layout abc_tooltip 0x7f0b001b
 int layout activity_content 0x7f0b001c
 int layout activity_currency_unit 0x7f0b001d
+int layout activity_current_exchange 0x7f0b0085
 int layout activity_feed_back 0x7f0b001e
 int layout activity_intro 0x7f0b001f
 int layout activity_language 0x7f0b0020
@@ -4072,6 +4088,7 @@ int layout notification_template_part_time 0x7f0b007d
 int layout select_dialog_item_material 0x7f0b007e
 int layout select_dialog_multichoice_material 0x7f0b007f
 int layout select_dialog_singlechoice_material 0x7f0b0080
+int layout spinner_item_country 0x7f0b0086
 int layout spring_dot_layout 0x7f0b0081
 int layout support_simple_spinner_dropdown_item 0x7f0b0082
 int layout viewholder_settings 0x7f0b0083
@@ -4138,6 +4155,7 @@ int string clear_text_end_icon_content_description 0x7f120033
 int string close_drawer 0x7f120034
 int string close_sheet 0x7f120035
 int string convert_currencies_effortlessly_with_our_built_in_tools 0x7f120036
+int string currency_exchange 0x7f1200e7
 int string currency_unit 0x7f120037
 int string default_error_message 0x7f120038
 int string default_popup_window_title 0x7f120039
@@ -4147,8 +4165,10 @@ int string distortion 0x7f12003c
 int string do_you_want_to_exit 0x7f12003d
 int string dropdown_menu 0x7f12003e
 int string english 0x7f12003f
+int string enter_a_valid_number 0x7f1200e8
 int string error_a11y_label 0x7f120040
 int string error_icon_content_description 0x7f120041
+int string exchange 0x7f1200e9
 int string exposed_dropdown_menu_content_description 0x7f120042
 int string fab_transformation_scrim_behavior 0x7f120043
 int string fab_transformation_sheet_behavior 0x7f120044
@@ -4293,6 +4313,7 @@ int string range_end 0x7f1200ce
 int string range_start 0x7f1200cf
 int string rate 0x7f1200d0
 int string require_internet 0x7f1200d1
+int string reset 0x7f1200ea
 int string satisfied 0x7f1200d2
 int string search_menu_title 0x7f1200d3
 int string searchbar_scrolling_view_behavior 0x7f1200d4

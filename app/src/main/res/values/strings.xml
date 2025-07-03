@@ -82,4 +82,8 @@
     <string name="make_life_simpler_with_quick_calculations_for_all_your_financial_plans">Make life simpler with quick \ncalculations for all your financial plans.</string>
     <string name="currency_unit">Currency Unit</string>
     <string name="todo">TODO</string>
+    <string name="currency_exchange">Currency Exchange</string>
+    <string name="reset">Reset</string>
+    <string name="enter_a_valid_number">Enter a valid number (maximum of 999 999 999 999)</string>
+    <string name="exchange">Exchange</string>
 </resources>

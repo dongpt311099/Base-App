@@ -1,378 +1,406 @@
 [
     {
-        "merged": "com.example.baseapplication.app-debug-71:/layout_dialog_rate.xml.flat",
-        "source": "com.example.baseapplication.app-main-73:/layout/dialog_rate.xml"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\layout_iteam_intro2.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\iteam_intro2.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/drawable_imag_pkge.xml.flat",
-        "source": "com.example.baseapplication.app-main-73:/drawable/imag_pkge.xml"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_ic_rate.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\ic_rate.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/drawable_background.xml.flat",
-        "source": "com.example.baseapplication.app-main-73:/drawable/background.xml"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/drawable_ic_no_internet.xml.flat",
-        "source": "com.example.baseapplication.app-main-73:/drawable/ic_no_internet.xml"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/drawable_img_usa.xml.flat",
-        "source": "com.example.baseapplication.app-main-73:/drawable/img_usa.xml"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\layout_fragment_second.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\fragment_second.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/drawable_radio_button_selected.xml.flat",
-        "source": "com.example.baseapplication.app-main-73:/drawable/radio_button_selected.xml"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_ic_tools.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\ic_tools.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/layout_activity_language.xml.flat",
-        "source": "com.example.baseapplication.app-main-73:/layout/activity_language.xml"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\layout_spinner_item_country.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\spinner_item_country.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/drawable_flag1.png.flat",
-        "source": "com.example.baseapplication.app-main-73:/drawable/flag1.png"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_ic_vietnam.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\ic_vietnam.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/drawable_ic_home.xml.flat",
-        "source": "com.example.baseapplication.app-main-73:/drawable/ic_home.xml"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_flag3.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\flag3.png"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.baseapplication.app-main-73:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_background.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\background.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/layout_language_item.xml.flat",
-        "source": "com.example.baseapplication.app-main-73:/layout/language_item.xml"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/drawable_ic_not_done.xml.flat",
-        "source": "com.example.baseapplication.app-main-73:/drawable/ic_not_done.xml"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\raw_loading_bar.json.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\raw\\loading_bar.json"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "com.example.baseapplication.app-main-73:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_ic_select.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\ic_select.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/layout_currency_language_item.xml.flat",
-        "source": "com.example.baseapplication.app-main-73:/layout/currency_language_item.xml"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_ic_arrow_down.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\ic_arrow_down.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/layout_iteam_intro3.xml.flat",
-        "source": "com.example.baseapplication.app-main-73:/layout/iteam_intro3.xml"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_ic_lang.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\ic_lang.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/xml_data_extraction_rules.xml.flat",
-        "source": "com.example.baseapplication.app-main-73:/xml/data_extraction_rules.xml"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_ic_arrow.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\ic_arrow.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.baseapplication.app-main-73:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/drawable_ic_select.xml.flat",
-        "source": "com.example.baseapplication.app-main-73:/drawable/ic_select.xml"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_flag2.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\flag2.png"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/drawable_image_intro3.xml.flat",
-        "source": "com.example.baseapplication.app-main-73:/drawable/image_intro3.xml"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/drawable_img_php.xml.flat",
-        "source": "com.example.baseapplication.app-main-73:/drawable/img_php.xml"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/drawable_img_thb.xml.flat",
-        "source": "com.example.baseapplication.app-main-73:/drawable/img_thb.xml"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\layout_iteam_intro1.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\iteam_intro1.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/raw_loading_splash.json.flat",
-        "source": "com.example.baseapplication.app-main-73:/raw/loading_splash.json"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\fragment_home.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/drawable_top_bar_bg.png.flat",
-        "source": "com.example.baseapplication.app-main-73:/drawable/top_bar_bg.png"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_image_intro4.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\image_intro4.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.baseapplication.app-main-73:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "com.example.baseapplication.app-debug-71:/layout_activity_current_exchange.xml.flat",
+        "source": "com.example.baseapplication.app-main-73:/layout/activity_current_exchange.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "com.example.baseapplication.app-main-73:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\layout_fragment_tools.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\fragment_tools.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/layout_activity_intro.xml.flat",
-        "source": "com.example.baseapplication.app-main-73:/layout/activity_intro.xml"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\layout_dialog_exit.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\dialog_exit.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/drawable_flag2.png.flat",
-        "source": "com.example.baseapplication.app-main-73:/drawable/flag2.png"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_img_aed.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\img_aed.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/drawable_btn_cancel_exit.xml.flat",
-        "source": "com.example.baseapplication.app-main-73:/drawable/btn_cancel_exit.xml"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_image_ngn.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\image_ngn.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/layout_fragment_settings.xml.flat",
-        "source": "com.example.baseapplication.app-main-73:/layout/fragment_settings.xml"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\raw_loading_splash.json.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\raw\\loading_splash.json"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/drawable_ic_launcher_foreground.xml.flat",
-        "source": "com.example.baseapplication.app-main-73:/drawable/ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_background_splash.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\background_splash.png"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/drawable_btn_background.xml.flat",
-        "source": "com.example.baseapplication.app-main-73:/drawable/btn_background.xml"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_background_inputfield.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\background_inputfield.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/layout_activity_currency_unit.xml.flat",
-        "source": "com.example.baseapplication.app-main-73:/layout/activity_currency_unit.xml"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\layout_language_item.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\language_item.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/drawable_ic_exit.xml.flat",
-        "source": "com.example.baseapplication.app-main-73:/drawable/ic_exit.xml"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_ic_no_internet.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\ic_no_internet.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/layout_iteam_intro2.xml.flat",
-        "source": "com.example.baseapplication.app-main-73:/layout/iteam_intro2.xml"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_item_border.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\item_border.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/layout_dialog_error.xml.flat",
-        "source": "com.example.baseapplication.app-main-73:/layout/dialog_error.xml"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/drawable_ic_feedb.xml.flat",
-        "source": "com.example.baseapplication.app-main-73:/drawable/ic_feedb.xml"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/drawable_ic_rate.xml.flat",
-        "source": "com.example.baseapplication.app-main-73:/drawable/ic_rate.xml"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\activity_splash.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/drawable_ic_lang.xml.flat",
-        "source": "com.example.baseapplication.app-main-73:/drawable/ic_lang.xml"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\layout_activity_language.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\activity_language.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/layout_viewholder_settings.xml.flat",
-        "source": "com.example.baseapplication.app-main-73:/layout/viewholder_settings.xml"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_radio_button.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\radio_button.png"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/color_color_navigation.xml.flat",
-        "source": "com.example.baseapplication.app-main-73:/color/color_navigation.xml"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/drawable_ic_done.xml.flat",
-        "source": "com.example.baseapplication.app-main-73:/drawable/ic_done.xml"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/drawable_da8cf81f5e042cf392628611fed449f077127394.png.flat",
-        "source": "com.example.baseapplication.app-main-73:/drawable/da8cf81f5e042cf392628611fed449f077127394.png"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\layout_iteam_intro4.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\iteam_intro4.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/drawable_icon_app.xml.flat",
-        "source": "com.example.baseapplication.app-main-73:/drawable/icon_app.xml"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\layout_viewholder_settings.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\viewholder_settings.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/layout_activity_feed_back.xml.flat",
-        "source": "com.example.baseapplication.app-main-73:/layout/activity_feed_back.xml"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/layout_activity_content.xml.flat",
-        "source": "com.example.baseapplication.app-main-73:/layout/activity_content.xml"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_radio_button_selected.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\radio_button_selected.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/drawable_radio_button.png.flat",
-        "source": "com.example.baseapplication.app-main-73:/drawable/radio_button.png"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\layout_dialog_notify.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\dialog_notify.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/drawable_green_flag.png.flat",
-        "source": "com.example.baseapplication.app-main-73:/drawable/green_flag.png"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_ic_his.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\ic_his.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.baseapplication.app-main-73:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\layout_fragment_first.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\fragment_first.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.baseapplication.app-main-73:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\layout_activity_feed_back.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\activity_feed_back.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/navigation_nav_graph.xml.flat",
-        "source": "com.example.baseapplication.app-main-73:/navigation/nav_graph.xml"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_star_filled.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\star_filled.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/drawable_image_ngn.xml.flat",
-        "source": "com.example.baseapplication.app-main-73:/drawable/image_ngn.xml"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\navigation\\nav_graph.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/layout_fragment_first.xml.flat",
-        "source": "com.example.baseapplication.app-main-73:/layout/fragment_first.xml"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_selector_optfeed_background.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\selector_optfeed_background.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.example.baseapplication.app-main-73:/drawable/ic_launcher_background.xml"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_selector_resetbtn.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\selector_resetbtn.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/layout_iteam_intro1.xml.flat",
-        "source": "com.example.baseapplication.app-main-73:/layout/iteam_intro1.xml"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_img_thb.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\img_thb.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/drawable_item_border.xml.flat",
-        "source": "com.example.baseapplication.app-main-73:/drawable/item_border.xml"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_img_php.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\img_php.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.example.baseapplication.app-main-73:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_ic_bell.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\ic_bell.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/drawable_detailfeed_background.xml.flat",
-        "source": "com.example.baseapplication.app-main-73:/drawable/detailfeed_background.xml"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\layout_activity_current_exchange.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\activity_current_exchange.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/drawable_ic_arrow.xml.flat",
-        "source": "com.example.baseapplication.app-main-73:/drawable/ic_arrow.xml"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_top_bar_bg.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\top_bar_bg.png"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "com.example.baseapplication.app-main-73:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_detailfeed_background.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\detailfeed_background.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/drawable_img_aed.xml.flat",
-        "source": "com.example.baseapplication.app-main-73:/drawable/img_aed.xml"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_btn_cancel_exit.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\btn_cancel_exit.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/layout_activity_main.xml.flat",
-        "source": "com.example.baseapplication.app-main-73:/layout/activity_main.xml"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\menu_menu_navigation.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\menu\\menu_navigation.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/layout_fragment_tools.xml.flat",
-        "source": "com.example.baseapplication.app-main-73:/layout/fragment_tools.xml"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_img_usa.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\img_usa.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/drawable_ic_tools.xml.flat",
-        "source": "com.example.baseapplication.app-main-73:/drawable/ic_tools.xml"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\layout_dialog_rate.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\dialog_rate.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/drawable_flag3.png.flat",
-        "source": "com.example.baseapplication.app-main-73:/drawable/flag3.png"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_icon_app.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\icon_app.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/layout_activity_splash.xml.flat",
-        "source": "com.example.baseapplication.app-main-73:/layout/activity_splash.xml"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_ic_exit.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\ic_exit.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/drawable_flag4.png.flat",
-        "source": "com.example.baseapplication.app-main-73:/drawable/flag4.png"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\layout_activity_content.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\activity_content.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/drawable_selector_sendbtn.xml.flat",
-        "source": "com.example.baseapplication.app-main-73:/drawable/selector_sendbtn.xml"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_selector_sendbtn.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\selector_sendbtn.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "com.example.baseapplication.app-main-73:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_empty_star.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\empty_star.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/menu_menu_navigation.xml.flat",
-        "source": "com.example.baseapplication.app-main-73:/menu/menu_navigation.xml"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_x_close.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\x_close.png"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/drawable_selector_optfeed_background.xml.flat",
-        "source": "com.example.baseapplication.app-main-73:/drawable/selector_optfeed_background.xml"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/color_selector_optfeed_text.xml.flat",
-        "source": "com.example.baseapplication.app-main-73:/color/selector_optfeed_text.xml"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_ic_home.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\ic_home.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/raw_loading_bar.json.flat",
-        "source": "com.example.baseapplication.app-main-73:/raw/loading_bar.json"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\xml\\backup_rules.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/drawable_background_splash.png.flat",
-        "source": "com.example.baseapplication.app-main-73:/drawable/background_splash.png"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_image_intro1.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\image_intro1.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.baseapplication.app-main-73:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_ic_policy.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\ic_policy.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/layout_fragment_home.xml.flat",
-        "source": "com.example.baseapplication.app-main-73:/layout/fragment_home.xml"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\activity_main.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/drawable_image_intro1.xml.flat",
-        "source": "com.example.baseapplication.app-main-73:/drawable/image_intro1.xml"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_ic_share.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\ic_share.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/drawable_img_inr.xml.flat",
-        "source": "com.example.baseapplication.app-main-73:/drawable/img_inr.xml"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_da8cf81f5e042cf392628611fed449f077127394.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\da8cf81f5e042cf392628611fed449f077127394.png"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/xml_backup_rules.xml.flat",
-        "source": "com.example.baseapplication.app-main-73:/xml/backup_rules.xml"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\layout_activity_currency_unit.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\activity_currency_unit.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/drawable_ic_settings.xml.flat",
-        "source": "com.example.baseapplication.app-main-73:/drawable/ic_settings.xml"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_ic_done.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\ic_done.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.baseapplication.app-main-73:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_flag1.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\flag1.png"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/drawable__9b493b5527bcc012304c13b4d9f1d707c2d91f6.jpg.flat",
-        "source": "com.example.baseapplication.app-main-73:/drawable/_9b493b5527bcc012304c13b4d9f1d707c2d91f6.jpg"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_ic_settings.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\ic_settings.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/drawable_star_filled.xml.flat",
-        "source": "com.example.baseapplication.app-main-73:/drawable/star_filled.xml"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable__9b493b5527bcc012304c13b4d9f1d707c2d91f6.jpg.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\_9b493b5527bcc012304c13b4d9f1d707c2d91f6.jpg"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/drawable_empty_star.xml.flat",
-        "source": "com.example.baseapplication.app-main-73:/drawable/empty_star.xml"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\layout_fragment_settings.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\fragment_settings.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/layout_dialog_notify.xml.flat",
-        "source": "com.example.baseapplication.app-main-73:/layout/dialog_notify.xml"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/drawable_ic_share.xml.flat",
-        "source": "com.example.baseapplication.app-main-73:/drawable/ic_share.xml"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\layout_dialog_error.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\dialog_error.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/drawable_x_close.png.flat",
-        "source": "com.example.baseapplication.app-main-73:/drawable/x_close.png"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_intro2_img.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\intro2_img.png"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/drawable_ic_bell.xml.flat",
-        "source": "com.example.baseapplication.app-main-73:/drawable/ic_bell.xml"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\layout_currency_language_item.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\currency_language_item.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/layout_dialog_exit.xml.flat",
-        "source": "com.example.baseapplication.app-main-73:/layout/dialog_exit.xml"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_flag4.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\flag4.png"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/drawable_intro2_img.png.flat",
-        "source": "com.example.baseapplication.app-main-73:/drawable/intro2_img.png"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_img_inr.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\img_inr.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/drawable_image_intro4.xml.flat",
-        "source": "com.example.baseapplication.app-main-73:/drawable/image_intro4.xml"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/layout_iteam_intro4.xml.flat",
-        "source": "com.example.baseapplication.app-main-73:/layout/iteam_intro4.xml"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_ic_feedb.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\ic_feedb.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/drawable_ic_policy.xml.flat",
-        "source": "com.example.baseapplication.app-main-73:/drawable/ic_policy.xml"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/drawable_ic_his.xml.flat",
-        "source": "com.example.baseapplication.app-main-73:/drawable/ic_his.xml"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_btn_background.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\btn_background.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/layout_fragment_second.xml.flat",
-        "source": "com.example.baseapplication.app-main-73:/layout/fragment_second.xml"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_image_intro3.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\image_intro3.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\layout_iteam_intro3.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\iteam_intro3.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_green_flag.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\green_flag.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_ic_not_done.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\ic_not_done.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\color_color_navigation.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\color\\color_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_imag_pkge.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\imag_pkge.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\color_selector_optfeed_text.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\color\\selector_optfeed_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\layout_activity_intro.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\activity_intro.xml"
     }
 ]

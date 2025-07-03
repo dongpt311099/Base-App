@@ -20,7 +20,7 @@
 15-->[androidx.core:core:1.16.0] C:\Users\DELL\.gradle\caches\8.9\transforms\c08818d64c49308d4792dbf57dd064b1\transformed\core-1.16.0\AndroidManifest.xml:26:22-94
 16
 17    <application
-17-->C:\Users\DELL\AndroidStudioProjects\Base-App\app\src\main\AndroidManifest.xml:5:5-43:19
+17-->C:\Users\DELL\AndroidStudioProjects\Base-App\app\src\main\AndroidManifest.xml:5:5-44:19
 18        android:allowBackup="true"
 18-->C:\Users\DELL\AndroidStudioProjects\Base-App\app\src\main\AndroidManifest.xml:6:9-35
 19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -43,58 +43,58 @@
 29        android:theme="@style/Theme.BaseApplication" >
 29-->C:\Users\DELL\AndroidStudioProjects\Base-App\app\src\main\AndroidManifest.xml:13:9-53
 30        <activity
-30-->C:\Users\DELL\AndroidStudioProjects\Base-App\app\src\main\AndroidManifest.xml:15:9-17:40
+30-->C:\Users\DELL\AndroidStudioProjects\Base-App\app\src\main\AndroidManifest.xml:16:9-18:40
 31            android:name="com.example.baseapplication.ui.activity.FeedBackActivity"
-31-->C:\Users\DELL\AndroidStudioProjects\Base-App\app\src\main\AndroidManifest.xml:16:13-57
+31-->C:\Users\DELL\AndroidStudioProjects\Base-App\app\src\main\AndroidManifest.xml:17:13-57
 32            android:exported="false" />
-32-->C:\Users\DELL\AndroidStudioProjects\Base-App\app\src\main\AndroidManifest.xml:17:13-37
+32-->C:\Users\DELL\AndroidStudioProjects\Base-App\app\src\main\AndroidManifest.xml:18:13-37
 33        <activity
-33-->C:\Users\DELL\AndroidStudioProjects\Base-App\app\src\main\AndroidManifest.xml:18:9-20:40
+33-->C:\Users\DELL\AndroidStudioProjects\Base-App\app\src\main\AndroidManifest.xml:19:9-21:40
 34            android:name="com.example.baseapplication.ui.activity.Currency_unit"
-34-->C:\Users\DELL\AndroidStudioProjects\Base-App\app\src\main\AndroidManifest.xml:19:13-54
+34-->C:\Users\DELL\AndroidStudioProjects\Base-App\app\src\main\AndroidManifest.xml:20:13-54
 35            android:exported="false" />
-35-->C:\Users\DELL\AndroidStudioProjects\Base-App\app\src\main\AndroidManifest.xml:20:13-37
+35-->C:\Users\DELL\AndroidStudioProjects\Base-App\app\src\main\AndroidManifest.xml:21:13-37
 36        <activity
-36-->C:\Users\DELL\AndroidStudioProjects\Base-App\app\src\main\AndroidManifest.xml:21:9-23:40
+36-->C:\Users\DELL\AndroidStudioProjects\Base-App\app\src\main\AndroidManifest.xml:22:9-24:40
 37            android:name="com.example.baseapplication.ui.activity.MainActivity"
-37-->C:\Users\DELL\AndroidStudioProjects\Base-App\app\src\main\AndroidManifest.xml:22:13-53
+37-->C:\Users\DELL\AndroidStudioProjects\Base-App\app\src\main\AndroidManifest.xml:23:13-53
 38            android:exported="false" />
-38-->C:\Users\DELL\AndroidStudioProjects\Base-App\app\src\main\AndroidManifest.xml:23:13-37
+38-->C:\Users\DELL\AndroidStudioProjects\Base-App\app\src\main\AndroidManifest.xml:24:13-37
 39        <activity
-39-->C:\Users\DELL\AndroidStudioProjects\Base-App\app\src\main\AndroidManifest.xml:24:9-27:60
+39-->C:\Users\DELL\AndroidStudioProjects\Base-App\app\src\main\AndroidManifest.xml:25:9-28:60
 40            android:name="com.example.baseapplication.ui.activity.Language"
-40-->C:\Users\DELL\AndroidStudioProjects\Base-App\app\src\main\AndroidManifest.xml:25:13-49
+40-->C:\Users\DELL\AndroidStudioProjects\Base-App\app\src\main\AndroidManifest.xml:26:13-49
 41            android:exported="false"
-41-->C:\Users\DELL\AndroidStudioProjects\Base-App\app\src\main\AndroidManifest.xml:26:13-37
+41-->C:\Users\DELL\AndroidStudioProjects\Base-App\app\src\main\AndroidManifest.xml:27:13-37
 42            android:theme="@style/Theme.BaseApplication" />
-42-->C:\Users\DELL\AndroidStudioProjects\Base-App\app\src\main\AndroidManifest.xml:27:13-57
+42-->C:\Users\DELL\AndroidStudioProjects\Base-App\app\src\main\AndroidManifest.xml:28:13-57
 43        <activity
-43-->C:\Users\DELL\AndroidStudioProjects\Base-App\app\src\main\AndroidManifest.xml:28:9-30:40
+43-->C:\Users\DELL\AndroidStudioProjects\Base-App\app\src\main\AndroidManifest.xml:29:9-31:40
 44            android:name="com.example.baseapplication.ui.activity.IntroActivity"
-44-->C:\Users\DELL\AndroidStudioProjects\Base-App\app\src\main\AndroidManifest.xml:29:13-54
+44-->C:\Users\DELL\AndroidStudioProjects\Base-App\app\src\main\AndroidManifest.xml:30:13-54
 45            android:exported="false" />
-45-->C:\Users\DELL\AndroidStudioProjects\Base-App\app\src\main\AndroidManifest.xml:30:13-37
+45-->C:\Users\DELL\AndroidStudioProjects\Base-App\app\src\main\AndroidManifest.xml:31:13-37
 46        <activity
-46-->C:\Users\DELL\AndroidStudioProjects\Base-App\app\src\main\AndroidManifest.xml:31:9-33:39
+46-->C:\Users\DELL\AndroidStudioProjects\Base-App\app\src\main\AndroidManifest.xml:32:9-34:40
 47            android:name="com.example.baseapplication.ui.activity.ContentActivity"
-47-->C:\Users\DELL\AndroidStudioProjects\Base-App\app\src\main\AndroidManifest.xml:32:13-56
+47-->C:\Users\DELL\AndroidStudioProjects\Base-App\app\src\main\AndroidManifest.xml:33:13-56
 48            android:exported="false" />
-48-->C:\Users\DELL\AndroidStudioProjects\Base-App\app\src\main\AndroidManifest.xml:33:13-37
+48-->C:\Users\DELL\AndroidStudioProjects\Base-App\app\src\main\AndroidManifest.xml:34:13-37
 49        <activity
-49-->C:\Users\DELL\AndroidStudioProjects\Base-App\app\src\main\AndroidManifest.xml:34:9-42:20
-50            android:name="com.example.baseapplication.ui.activity.Splash"
-50-->C:\Users\DELL\AndroidStudioProjects\Base-App\app\src\main\AndroidManifest.xml:35:13-47
+49-->C:\Users\DELL\AndroidStudioProjects\Base-App\app\src\main\AndroidManifest.xml:35:9-43:20
+50            android:name="com.example.baseapplication.ui.activity.CurrentExchangeActivity"
+50-->C:\Users\DELL\AndroidStudioProjects\Base-App\app\src\main\AndroidManifest.xml:36:13-64
 51            android:exported="true" >
-51-->C:\Users\DELL\AndroidStudioProjects\Base-App\app\src\main\AndroidManifest.xml:36:13-36
+51-->C:\Users\DELL\AndroidStudioProjects\Base-App\app\src\main\AndroidManifest.xml:37:13-36
 52            <intent-filter>
-52-->C:\Users\DELL\AndroidStudioProjects\Base-App\app\src\main\AndroidManifest.xml:37:13-41:29
+52-->C:\Users\DELL\AndroidStudioProjects\Base-App\app\src\main\AndroidManifest.xml:38:13-42:29
 53                <action android:name="android.intent.action.MAIN" />
-53-->C:\Users\DELL\AndroidStudioProjects\Base-App\app\src\main\AndroidManifest.xml:38:17-69
-53-->C:\Users\DELL\AndroidStudioProjects\Base-App\app\src\main\AndroidManifest.xml:38:25-66
+53-->C:\Users\DELL\AndroidStudioProjects\Base-App\app\src\main\AndroidManifest.xml:39:17-69
+53-->C:\Users\DELL\AndroidStudioProjects\Base-App\app\src\main\AndroidManifest.xml:39:25-66
 54
 55                <category android:name="android.intent.category.LAUNCHER" />
-55-->C:\Users\DELL\AndroidStudioProjects\Base-App\app\src\main\AndroidManifest.xml:40:17-77
-55-->C:\Users\DELL\AndroidStudioProjects\Base-App\app\src\main\AndroidManifest.xml:40:27-74
+55-->C:\Users\DELL\AndroidStudioProjects\Base-App\app\src\main\AndroidManifest.xml:41:17-77
+55-->C:\Users\DELL\AndroidStudioProjects\Base-App\app\src\main\AndroidManifest.xml:41:27-74
 56            </intent-filter>
 57        </activity>
 58        <activity

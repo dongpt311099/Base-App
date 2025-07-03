@@ -2,18 +2,13 @@ package com.example.baseapplication.ui.activity
 
 import android.content.Intent
 import android.os.Bundle
-import android.widget.TextView
-import android.widget.Toast
 import androidx.activity.enableEdgeToEdge
-import androidx.appcompat.app.AppCompatActivity
 import androidx.viewpager2.widget.ViewPager2
-import com.example.baseapplication.R
 import com.example.baseapplication.databinding.ActivityIntroBinding
-import com.example.baseapplication.ui.fragment.IntroPagerAdapter
+import com.example.baseapplication.ui.adapter.IntroPagerAdapter
 
 class IntroActivity : BaseActivity() {
     private lateinit var binding : ActivityIntroBinding
-
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()

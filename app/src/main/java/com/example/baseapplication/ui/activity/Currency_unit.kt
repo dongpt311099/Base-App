@@ -10,13 +10,17 @@ import android.widget.ImageView
 import android.widget.LinearLayout
 import android.widget.Toast
 import androidx.activity.enableEdgeToEdge
+import androidx.appcompat.app.AppCompatActivity
+import androidx.core.content.ContentProviderCompat.requireContext
+import androidx.core.view.ViewCompat
+import androidx.core.view.WindowInsetsCompat
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.example.baseapplication.R
 import com.example.baseapplication.databinding.ActivityCurrencyUnitBinding
 import com.example.baseapplication.ui.adapter.CurrencyUnitAdapter
+import com.example.baseapplication.ui.adapter.LanguageAdapter
 import com.example.baseapplication.ui.model.CurrencyUnitItem
-
 
 class Currency_unit : BaseActivity() {
 
@@ -45,6 +49,9 @@ class Currency_unit : BaseActivity() {
             binding.currencyDone.setImageResource(R.drawable.ic_done)
         }
 
-        binding
+        binding.currencyDone.setOnClickListener {
+            val intent = Intent(this, ContentActivity::class.java)
+            startActivity((intent))
+        }
     }
 }

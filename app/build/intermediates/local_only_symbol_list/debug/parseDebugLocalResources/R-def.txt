@@ -11,6 +11,8 @@ color optfeed_txt
 color purple_200
 color purple_500
 color purple_700
+color red
+color reset_color
 color selector_optfeed_text
 color teal_200
 color teal_700
@@ -19,6 +21,7 @@ color white
 dimen fab_margin
 drawable _9b493b5527bcc012304c13b4d9f1d707c2d91f6
 drawable background
+drawable background_inputfield
 drawable background_splash
 drawable btn_background
 drawable btn_cancel_exit
@@ -31,6 +34,7 @@ drawable flag3
 drawable flag4
 drawable green_flag
 drawable ic_arrow
+drawable ic_arrow_down
 drawable ic_bell
 drawable ic_done
 drawable ic_exit
@@ -48,6 +52,7 @@ drawable ic_select
 drawable ic_settings
 drawable ic_share
 drawable ic_tools
+drawable ic_vietnam
 drawable icon_app
 drawable imag_pkge
 drawable image_intro1
@@ -64,6 +69,7 @@ drawable item_border
 drawable radio_button
 drawable radio_button_selected
 drawable selector_optfeed_background
+drawable selector_resetbtn
 drawable selector_sendbtn
 drawable star_filled
 drawable top_bar_bg
@@ -86,6 +92,8 @@ id button_second
 id cancelBtn
 id close_btn
 id container
+id country_after
+id country_before
 id currencyItem
 id currencyName
 id currencyNameDetail
@@ -93,9 +101,12 @@ id currencyRadioButton
 id currency_done
 id detail_error
 id dotsIndicator
+id error_txt
+id exchange_btn
 id flagCurrencyImg
 id flagImage
 id ic_error
+id ic_flag
 id iconSetting
 id intro1
 id intro2
@@ -108,6 +119,8 @@ id languageRecyclerView
 id languageText
 id list_currency
 id main
+id money_after
+id money_before
 id nav_graph
 id next_intro_1
 id op1
@@ -116,6 +129,7 @@ id op3
 id op4
 id op5
 id rateBtn
+id reset_btn
 id return_btn
 id sendBtn
 id start1
@@ -130,9 +144,11 @@ id title
 id title_error
 id tvShow
 id txtTitle
+id unit
 id viewPager
 layout activity_content
 layout activity_currency_unit
+layout activity_current_exchange
 layout activity_feed_back
 layout activity_intro
 layout activity_language
@@ -153,6 +169,7 @@ layout iteam_intro2
 layout iteam_intro3
 layout iteam_intro4
 layout language_item
+layout spinner_item_country
 layout viewholder_settings
 menu menu_navigation
 mipmap ic_launcher
@@ -167,11 +184,14 @@ string appreciate
 string boost_your_savings_with_our_fixed_and_recurring_deposit_calculators
 string bugs
 string convert_currencies_effortlessly_with_our_built_in_tools
+string currency_exchange
 string currency_unit
 string detail_noti
 string distortion
 string do_you_want_to_exit
 string english
+string enter_a_valid_number
+string exchange
 string face_details
 string feedback
 string finance
@@ -195,6 +215,7 @@ string premium
 string previous
 string rate
 string require_internet
+string reset
 string satisfied
 string second_fragment_label
 string send
