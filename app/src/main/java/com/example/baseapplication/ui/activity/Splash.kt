@@ -11,6 +11,8 @@ import androidx.core.view.WindowInsetsCompat
 import com.example.baseapplication.R
 
 class Splash : BaseActivity() {
+
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()

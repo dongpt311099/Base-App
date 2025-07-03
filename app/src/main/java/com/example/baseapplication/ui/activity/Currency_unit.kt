@@ -1,6 +1,8 @@
 package com.example.baseapplication.ui.activity
 
 import android.annotation.SuppressLint
+import android.content.Context
+import android.content.Intent
 import android.media.Image
 import android.os.Bundle
 import android.view.ViewGroup
@@ -9,25 +11,25 @@ import android.widget.LinearLayout
 import android.widget.Toast
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
+import androidx.core.content.ContentProviderCompat.requireContext
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.example.baseapplication.R
+import com.example.baseapplication.databinding.ActivityCurrencyUnitBinding
 import com.example.baseapplication.ui.adapter.CurrencyUnitAdapter
 import com.example.baseapplication.ui.adapter.LanguageAdapter
 import com.example.baseapplication.ui.model.CurrencyUnitItem
 
-class Currency_unit : AppCompatActivity() {
+class Currency_unit : BaseActivity() {
+
+    private lateinit var binding: ActivityCurrencyUnitBinding
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+        binding= ActivityCurrencyUnitBinding.inflate(layoutInflater)
         enableEdgeToEdge()
-        setContentView(R.layout.activity_currency_unit)
-        ViewCompat.setOnApplyWindowInsetsListener(findViewById(R.id.activity_currency_unit)) { v, insets ->
-            val systemBars = insets.getInsets(WindowInsetsCompat.Type.systemBars())
-            v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom)
-            insets
-        }
+        setContentView(binding.root)
         val listCurrency = listOf(
             CurrencyUnitItem("INR", R.drawable.img_inr, "Indian Rupee"),
             CurrencyUnitItem("USD", R.drawable.img_usa, "United States Dollar"),
@@ -40,12 +42,16 @@ class Currency_unit : AppCompatActivity() {
             CurrencyUnitItem("PHP", R.drawable.img_php, "Philippine Peso"),
             CurrencyUnitItem("PHP", R.drawable.img_php, "Philippine Peso"),
         )
-        val recyclerView = findViewById<RecyclerView>(R.id.list_currency)
+        val recyclerView = binding.listCurrency
         recyclerView.layoutManager = LinearLayoutManager(this)
-        val currencyUnitDone = findViewById<ImageView>(R.id.currency_done)
         recyclerView.adapter = CurrencyUnitAdapter(listCurrency){
             selectedItem-> Toast.makeText(this,"${selectedItem.name}",Toast.LENGTH_SHORT).show()
-            currencyUnitDone.setImageResource(R.drawable.ic_done)
+            binding.currencyDone.setImageResource(R.drawable.ic_done)
+        }
+
+        binding.currencyDone.setOnClickListener {
+            val intent = Intent(requireContext(), ContentActivity::class.java)
+            startActivity((intent))
         }
     }
 }
