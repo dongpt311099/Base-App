@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-mergeDebugResources-33:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-36:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-mergeDebugResources-33:\\layout\\dialog_rating.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-36:\\layout\\dialog_rating.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-mergeDebugResources-33:\\layout\\dialog_rate.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-36:\\layout\\dialog_rate.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-mergeDebugResources-33:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-36:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-mergeDebugResources-33:\\layout\\activity_feed_back.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-36:\\layout\\activity_feed_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-mergeDebugResources-33:\\layout\\fragment_settings.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-36:\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-mergeDebugResources-33:\\layout\\activity_content.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-36:\\layout\\activity_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-mergeDebugResources-33:\\layout\\dialog_error.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-36:\\layout\\dialog_error.xml"
+    },
+    {
+        "merged": "com.example.baseapplication.app-mergeDebugResources-33:/layout/fragment_home.xml",
+        "source": "com.example.baseapplication.app-main-36:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-mergeDebugResources-33:\\layout\\fragment_tools.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-36:\\layout\\fragment_tools.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-mergeDebugResources-33:\\layout\\dialog_exit.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-36:\\layout\\dialog_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-mergeDebugResources-33:\\layout\\viewholder_settings.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-36:\\layout\\viewholder_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-mergeDebugResources-33:\\layout\\dialog_notify.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-36:\\layout\\dialog_notify.xml"
+    }
+]

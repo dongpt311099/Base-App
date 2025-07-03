@@ -2,4 +2,29 @@
     <string name="app_name">BaseApplication</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="settings">Settings</string>
+    <string name="home">Home</string>
+    <string name="tools">Tools</string>
+    <string name="history">History</string>
+    <string name="satisfied">Satisfied with the result?</string>
+    <string name="appreciate">We’d greatly appreciate if you can rate us</string>
+    <string name="rate">Rate</string>
+    <string name="feedback">Feedback</string>
+    <string name="not_satisfied">What’s it that you are not satisfied with?</string>
+    <string name="poor_effect">Poor effect</string>
+    <string name="bugs">Bugs</string>
+    <string name="face_details">Face details</string>
+    <string name="premium">Premium</string>
+    <string name="distortion">Distortion</string>
+    <string name="hint_detailed_feedback">We would greatly appreciate it if you could kindly give us detailed feedback.</string>
+    <string name="send">Send</string>
+    <string name="allow_notification">Allow notification</string>
+    <string name="detail_noti"><![CDATA[Turn on notifications to be notified of special offers and new features of <Name app>]]></string>
+    <string name="allow">Allow</string>
+    <string name="no_internet">No internet</string>
+    <string name="require_internet">This feature require internet to work...</string>
+    <string name="finance">finance</string>
+    <string name="do_you_want_to_exit">Do you want to exit?</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
 </resources>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="302dp"
+    android:layout_height="156dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".ui.fragment.ErrorDialog">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingHorizontal="10dp"
+        android:paddingTop="10dp"
+        android:paddingBottom="24dp"
+        app:cardCornerRadius="10dp">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="13.22dp">
+            <ImageView
+                android:id="@+id/ic_error"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="14dp"
+                android:src="@drawable/ic_no_internet"
+                android:layout_centerHorizontal="true"/>
+            <ImageView
+                android:id="@+id/close_btn"
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:src="@drawable/x_close"
+                android:layout_alignParentEnd="true"/>
+        </RelativeLayout>
+
+
+        <TextView
+            android:id="@+id/title_error"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="12dp"
+            android:text="@string/no_internet"
+            android:textAlignment="center"
+            android:textColor="@color/normal_txt"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/detail_error"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:lineHeight="24dp"
+            android:text="@string/require_internet"
+            android:textAlignment="center"
+            android:textColor="#6D6D6D"
+            android:textSize="14sp" />
+    </LinearLayout>
+</LinearLayout>
