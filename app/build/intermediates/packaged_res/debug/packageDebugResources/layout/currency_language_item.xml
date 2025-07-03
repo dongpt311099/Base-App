@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/currencyItem"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:focusable="true"
+    android:minHeight="60dp"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_marginBottom="16dp"
+    android:background="@drawable/item_border"
+    android:foreground="?attr/selectableItemBackground"
+    android:clickable="true">
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_marginStart="16dp"
+        android:gravity="center_vertical"
+        tools:ignore="UseCompoundDrawables,UselessParent">
+        <LinearLayout
+            android:layout_width="100dp"
+            android:layout_height="30dp"
+            android:orientation="horizontal"
+            android:gravity="center_vertical">
+            <ImageView
+                android:id="@+id/flagCurrencyImg"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/img_inr"
+                android:contentDescription="@string/flag"
+                />
+
+            <TextView
+                android:id="@+id/currencyName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingStart="8dp"
+                android:textSize="16sp"
+                android:text="INR"
+                />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/currencyNameDetail"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:textColor="#888888"
+            android:paddingStart="16dp"
+            android:text="Indian Rupee"/>
+
+    </LinearLayout>
+    <ImageView
+        android:id="@+id/currencyRadioButton"
+        android:layout_width="18dp"
+        android:layout_height="18dp"
+        android:layout_gravity="center"
+        android:src="@drawable/ic_select"
+        android:layout_marginEnd="16dp"
+        />
+
+
+</LinearLayout>
