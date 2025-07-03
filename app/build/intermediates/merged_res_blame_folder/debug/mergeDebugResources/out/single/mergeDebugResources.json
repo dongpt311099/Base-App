@@ -8,12 +8,12 @@
         "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-36:\\drawable\\icon_app.xml"
     },
     {
-        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-34:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-36:\\mipmap-xhdpi\\ic_launcher_round.webp"
-    },
-    {
         "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-34:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
         "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-36:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-34:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-36:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
         "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-34:\\layout_viewholder_settings.xml.flat",

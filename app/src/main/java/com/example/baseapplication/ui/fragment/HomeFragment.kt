@@ -5,6 +5,7 @@ import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import androidx.transition.Visibility
 import com.example.baseapplication.R
 import com.example.baseapplication.databinding.FragmentHomeBinding
 
@@ -28,15 +29,26 @@ class HomeFragment : Fragment() {
     ): View? {
         binding= FragmentHomeBinding.inflate(layoutInflater,container,false)
         // Inflate the layout for this fragment
+        return binding.root
+
+
+    }
+
+
+    override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
+        super.onViewCreated(view, savedInstanceState)
         setOnClick()
-        return inflater.inflate(R.layout.fragment_home, container, false)
     }
 
     private fun setOnClick(){
-        binding.testBtn.setOnClickListener {
-            val dialogError = ErrorDialog()
-            dialogError.show(requireActivity().supportFragmentManager, "dialogError")
+        binding?.apply {
+            testBtn.setOnClickListener {
+                val dialogError = ErrorDialog()
+                dialogError.show(requireActivity().supportFragmentManager, "dialogError")
+            }
+
         }
+
     }
 
 }

@@ -4,7 +4,7 @@ package com.example.baseapplication.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.FrameLayout;
+import android.widget.LinearLayout;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
@@ -17,19 +17,24 @@ import java.lang.String;
 
 public final class FragmentHomeBinding implements ViewBinding {
   @NonNull
-  private final FrameLayout rootView;
+  private final LinearLayout rootView;
 
   @NonNull
   public final TextView testBtn;
 
-  private FragmentHomeBinding(@NonNull FrameLayout rootView, @NonNull TextView testBtn) {
+  @NonNull
+  public final TextView tvShow;
+
+  private FragmentHomeBinding(@NonNull LinearLayout rootView, @NonNull TextView testBtn,
+      @NonNull TextView tvShow) {
     this.rootView = rootView;
     this.testBtn = testBtn;
+    this.tvShow = tvShow;
   }
 
   @Override
   @NonNull
-  public FrameLayout getRoot() {
+  public LinearLayout getRoot() {
     return rootView;
   }
 
@@ -60,7 +65,13 @@ public final class FragmentHomeBinding implements ViewBinding {
         break missingId;
       }
 
-      return new FragmentHomeBinding((FrameLayout) rootView, testBtn);
+      id = R.id.tvShow;
+      TextView tvShow = ViewBindings.findChildViewById(rootView, id);
+      if (tvShow == null) {
+        break missingId;
+      }
+
+      return new FragmentHomeBinding((LinearLayout) rootView, testBtn, tvShow);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));
