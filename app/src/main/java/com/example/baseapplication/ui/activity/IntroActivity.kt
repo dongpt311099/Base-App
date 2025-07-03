@@ -2,31 +2,25 @@ package com.example.baseapplication.ui.activity
 
 import android.content.Intent
 import android.os.Bundle
-import android.widget.TextView
-import android.widget.Toast
 import androidx.activity.enableEdgeToEdge
-import androidx.appcompat.app.AppCompatActivity
 import androidx.viewpager2.widget.ViewPager2
-import com.example.baseapplication.R
-import com.example.baseapplication.ui.fragment.IntroPagerAdapter
-import com.tbuonomo.viewpagerdotsindicator.DotsIndicator
+import com.example.baseapplication.databinding.ActivityIntroBinding
+import com.example.baseapplication.ui.adapter.IntroPagerAdapter
 
 class IntroActivity : BaseActivity() {
-    private lateinit var viewPager: ViewPager2
-    private lateinit var dotsIndicator: DotsIndicator
-    private lateinit var nextText: TextView
+    private lateinit var binding : ActivityIntroBinding
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
-        setContentView(R.layout.activity_intro)
+        binding= ActivityIntroBinding.inflate(layoutInflater)
+        setContentView(binding.root)
 
-        viewPager = findViewById(R.id.viewPager)
-        dotsIndicator = findViewById(R.id.dotsIndicator)
-        nextText = findViewById(R.id.next_intro_1)
+        val viewPager = binding.viewPager
+        val nextText = binding.nextIntro1
 
         val adapter = IntroPagerAdapter(this)
         viewPager.adapter = adapter
-        dotsIndicator.attachTo(viewPager)
+        binding.dotsIndicator.attachTo(viewPager)
 
         nextText.setOnClickListener {
             if (viewPager.currentItem < adapter.itemCount - 1) {

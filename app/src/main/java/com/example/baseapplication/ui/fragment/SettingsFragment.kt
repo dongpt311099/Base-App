@@ -2,6 +2,7 @@ package com.example.baseapplication.ui.fragment
 
 import android.app.Dialog
 import android.content.Intent
+import android.net.Uri
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
@@ -15,6 +16,7 @@ import com.example.baseapplication.databinding.FragmentSettingsBinding
 import com.example.myapplication.Adapter.SettingAdapter
 import com.example.baseapplication.ui.Domain.SettingOption
 import com.example.baseapplication.ui.activity.FeedBackActivity
+import com.example.baseapplication.ui.activity.Language
 import com.example.baseapplication.ui.activity.ContentActivity as ContentActivity
 
 class SettingsFragment : Fragment() {
@@ -50,7 +52,10 @@ class SettingsFragment : Fragment() {
 
         val adapter=SettingAdapter(options) {option ->
             when(option){
-                SettingOption.LANGUAGE->{}
+                SettingOption.LANGUAGE->{
+                    val intent= Intent(requireContext(), Language::class.java)
+                    startActivity(intent)
+                }
                 SettingOption.RATE->{
                     val dialogRate = RateDialog()
                     dialogRate.show(requireActivity().supportFragmentManager, "dialogRate")
@@ -60,7 +65,11 @@ class SettingsFragment : Fragment() {
                     val intent= Intent(requireContext(), FeedBackActivity::class.java)
                     startActivity(intent)
                 }
-                SettingOption.POLICY->{}
+                SettingOption.POLICY->{
+                    val intent= Intent(Intent.ACTION_VIEW)
+                    intent.data = Uri.parse("https://sites.google.com/view/privacy-policy-ai-tech-labs")
+                    startActivity(intent)
+                }
             }
         }
 
