@@ -82,4 +82,6 @@
     <string name="make_life_simpler_with_quick_calculations_for_all_your_financial_plans">Make life simpler with quick \ncalculations for all your financial plans.</string>
     <string name="currency_unit">Currency Unit</string>
     <string name="todo">TODO</string>
+    <string name="easily_convert_between_currencies_and_get_the_most_up_to_date_rates">Easily convert between currencies and get the most up to date rates.</string>
+    <string name="currency_exchange">Currency Exchange</string>
 </resources>

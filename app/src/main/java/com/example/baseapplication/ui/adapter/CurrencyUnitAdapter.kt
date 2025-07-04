@@ -49,7 +49,6 @@ class CurrencyUnitAdapter (
             notifyItemChanged(previousSelected)
             notifyItemChanged(selectedPosition)
             itemOnclick(currency)
-            holder.radioButton.setImageResource(R.drawable.radio_button_selected)
         }
     }
 }

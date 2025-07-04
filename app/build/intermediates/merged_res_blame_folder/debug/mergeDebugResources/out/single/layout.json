@@ -1,94 +1,106 @@
 [
     {
-        "merged": "com.example.baseapplication.app-mergeDebugResources-70:/layout/fragment_second.xml",
-        "source": "com.example.baseapplication.app-main-73:/layout/fragment_second.xml"
+        "merged": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-mergeDebugResources-70:\\layout\\fragment_tool_item.xml",
+        "source": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\fragment_tool_item.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-mergeDebugResources-70:/layout/dialog_exit.xml",
-        "source": "com.example.baseapplication.app-main-73:/layout/dialog_exit.xml"
+        "merged": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-mergeDebugResources-70:\\layout\\dialog_notify.xml",
+        "source": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\dialog_notify.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-mergeDebugResources-70:/layout/activity_content.xml",
-        "source": "com.example.baseapplication.app-main-73:/layout/activity_content.xml"
+        "merged": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-mergeDebugResources-70:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\fragment_home.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-mergeDebugResources-70:/layout/dialog_error.xml",
-        "source": "com.example.baseapplication.app-main-73:/layout/dialog_error.xml"
-    },
-    {
-        "merged": "com.example.baseapplication.app-mergeDebugResources-70:/layout/viewholder_settings.xml",
-        "source": "com.example.baseapplication.app-main-73:/layout/viewholder_settings.xml"
-    },
-    {
-        "merged": "com.example.baseapplication.app-mergeDebugResources-70:/layout/currency_language_item.xml",
-        "source": "com.example.baseapplication.app-main-73:/layout/currency_language_item.xml"
-    },
-    {
-        "merged": "com.example.baseapplication.app-mergeDebugResources-70:/layout/activity_splash.xml",
-        "source": "com.example.baseapplication.app-main-73:/layout/activity_splash.xml"
-    },
-    {
-        "merged": "com.example.baseapplication.app-mergeDebugResources-70:/layout/fragment_settings.xml",
-        "source": "com.example.baseapplication.app-main-73:/layout/fragment_settings.xml"
-    },
-    {
-        "merged": "com.example.baseapplication.app-mergeDebugResources-70:/layout/iteam_intro2.xml",
-        "source": "com.example.baseapplication.app-main-73:/layout/iteam_intro2.xml"
-    },
-    {
-        "merged": "com.example.baseapplication.app-mergeDebugResources-70:/layout/iteam_intro4.xml",
-        "source": "com.example.baseapplication.app-main-73:/layout/iteam_intro4.xml"
-    },
-    {
-        "merged": "com.example.baseapplication.app-mergeDebugResources-70:/layout/fragment_first.xml",
-        "source": "com.example.baseapplication.app-main-73:/layout/fragment_first.xml"
-    },
-    {
-        "merged": "com.example.baseapplication.app-mergeDebugResources-70:/layout/dialog_notify.xml",
-        "source": "com.example.baseapplication.app-main-73:/layout/dialog_notify.xml"
-    },
-    {
-        "merged": "com.example.baseapplication.app-mergeDebugResources-70:/layout/activity_language.xml",
-        "source": "com.example.baseapplication.app-main-73:/layout/activity_language.xml"
+        "merged": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-mergeDebugResources-70:\\layout\\dialog_exit.xml",
+        "source": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\dialog_exit.xml"
     },
     {
         "merged": "com.example.baseapplication.app-mergeDebugResources-70:/layout/language_item.xml",
         "source": "com.example.baseapplication.app-main-73:/layout/language_item.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-mergeDebugResources-70:/layout/iteam_intro1.xml",
-        "source": "com.example.baseapplication.app-main-73:/layout/iteam_intro1.xml"
+        "merged": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-mergeDebugResources-70:\\layout\\iteam_intro3.xml",
+        "source": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\iteam_intro3.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-mergeDebugResources-70:/layout/activity_intro.xml",
-        "source": "com.example.baseapplication.app-main-73:/layout/activity_intro.xml"
+        "merged": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-mergeDebugResources-70:\\layout\\dialog_error.xml",
+        "source": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\dialog_error.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-mergeDebugResources-70:/layout/activity_feed_back.xml",
-        "source": "com.example.baseapplication.app-main-73:/layout/activity_feed_back.xml"
+        "merged": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-mergeDebugResources-70:\\layout\\activity_currency_unit.xml",
+        "source": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\activity_currency_unit.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-mergeDebugResources-70:/layout/activity_currency_unit.xml",
-        "source": "com.example.baseapplication.app-main-73:/layout/activity_currency_unit.xml"
+        "merged": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-mergeDebugResources-70:\\layout\\fragment_first.xml",
+        "source": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\fragment_first.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-mergeDebugResources-70:/layout/dialog_rate.xml",
-        "source": "com.example.baseapplication.app-main-73:/layout/dialog_rate.xml"
+        "merged": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-mergeDebugResources-70:\\layout\\dialog_rate.xml",
+        "source": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\dialog_rate.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-mergeDebugResources-70:/layout/fragment_tools.xml",
-        "source": "com.example.baseapplication.app-main-73:/layout/fragment_tools.xml"
+        "merged": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-mergeDebugResources-70:\\layout\\fragment_settings.xml",
+        "source": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\fragment_settings.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-mergeDebugResources-70:/layout/fragment_home.xml",
-        "source": "com.example.baseapplication.app-main-73:/layout/fragment_home.xml"
+        "merged": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-mergeDebugResources-70:\\layout\\activity_intro.xml",
+        "source": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\activity_intro.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-mergeDebugResources-70:/layout/iteam_intro3.xml",
-        "source": "com.example.baseapplication.app-main-73:/layout/iteam_intro3.xml"
+        "merged": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-mergeDebugResources-70:\\layout\\currency_language_item.xml",
+        "source": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\currency_language_item.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-mergeDebugResources-70:/layout/activity_main.xml",
-        "source": "com.example.baseapplication.app-main-73:/layout/activity_main.xml"
+        "merged": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-mergeDebugResources-70:\\layout\\iteam_intro2.xml",
+        "source": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\iteam_intro2.xml"
+    },
+    {
+        "merged": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-mergeDebugResources-70:\\layout\\activity_content.xml",
+        "source": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\activity_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-mergeDebugResources-70:\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-mergeDebugResources-70:\\layout\\viewholder_settings.xml",
+        "source": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\viewholder_settings.xml"
+    },
+    {
+        "merged": "com.example.baseapplication.app-mergeDebugResources-70:/layout/fragment_tool_item.xml",
+        "source": "com.example.baseapplication.app-main-73:/layout/fragment_tool_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-mergeDebugResources-70:\\layout\\activity_feed_back.xml",
+        "source": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\activity_feed_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-mergeDebugResources-70:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-mergeDebugResources-70:\\layout\\fragment_second.xml",
+        "source": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-mergeDebugResources-70:\\layout\\iteam_intro4.xml",
+        "source": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\iteam_intro4.xml"
+    },
+    {
+        "merged": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-mergeDebugResources-70:\\layout\\language_item.xml",
+        "source": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\language_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-mergeDebugResources-70:\\layout\\fragment_tools.xml",
+        "source": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\fragment_tools.xml"
+    },
+    {
+        "merged": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-mergeDebugResources-70:\\layout\\activity_language.xml",
+        "source": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\activity_language.xml"
+    },
+    {
+        "merged": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-mergeDebugResources-70:\\layout\\iteam_intro1.xml",
+        "source": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\iteam_intro1.xml"
     }
 ]

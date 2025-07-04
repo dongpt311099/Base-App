@@ -3168,9 +3168,13 @@ drawable image_intro3
 drawable image_intro4
 drawable image_ngn
 drawable img_aed
+drawable img_amount
+drawable img_currency
 drawable img_inr
+drawable img_note
 drawable img_php
 drawable img_thb
+drawable img_time_zone
 drawable img_usa
 drawable indeterminate_static
 drawable intro2_img
@@ -3405,6 +3409,7 @@ id clockwise
 id close_btn
 id closest
 id collapseActionView
+id coming_soon_text
 id compose_view_saveable_id_tag
 id compress
 id confirm_button
@@ -3524,6 +3529,7 @@ id ifRoom
 id ignore
 id ignoreRequest
 id image
+id img_tool
 id immediateStop
 id included
 id indeterminate
@@ -3813,6 +3819,10 @@ id titleDividerNoCustom
 id title_error
 id title_template
 id toggle
+id tool_item
+id tool_name
+id tool_name_detail
+id tool_recycler
 id top
 id topPanel
 id touch_outside
@@ -4005,6 +4015,7 @@ layout fragment_first
 layout fragment_home
 layout fragment_second
 layout fragment_settings
+layout fragment_tool_item
 layout fragment_tools
 layout ime_base_split_test_activity
 layout ime_secondary_split_test_activity
@@ -4139,6 +4150,7 @@ string clear_text_end_icon_content_description
 string close_drawer
 string close_sheet
 string convert_currencies_effortlessly_with_our_built_in_tools
+string currency_exchange
 string currency_unit
 string default_error_message
 string default_popup_window_title
@@ -4147,6 +4159,7 @@ string detail_noti
 string distortion
 string do_you_want_to_exit
 string dropdown_menu
+string easily_convert_between_currencies_and_get_the_most_up_to_date_rates
 string english
 string error_a11y_label
 string error_icon_content_description

@@ -55,9 +55,13 @@ drawable image_intro3
 drawable image_intro4
 drawable image_ngn
 drawable img_aed
+drawable img_amount
+drawable img_currency
 drawable img_inr
+drawable img_note
 drawable img_php
 drawable img_thb
+drawable img_time_zone
 drawable img_usa
 drawable intro2_img
 drawable item_border
@@ -85,6 +89,7 @@ id button_first
 id button_second
 id cancelBtn
 id close_btn
+id coming_soon_text
 id container
 id currencyItem
 id currencyName
@@ -97,6 +102,7 @@ id flagCurrencyImg
 id flagImage
 id ic_error
 id iconSetting
+id img_tool
 id intro1
 id intro2
 id intro3
@@ -128,6 +134,10 @@ id textview_first
 id textview_second
 id title
 id title_error
+id tool_item
+id tool_name
+id tool_name_detail
+id tool_recycler
 id tvShow
 id txtTitle
 id viewPager
@@ -147,6 +157,7 @@ layout fragment_first
 layout fragment_home
 layout fragment_second
 layout fragment_settings
+layout fragment_tool_item
 layout fragment_tools
 layout iteam_intro1
 layout iteam_intro2
@@ -167,10 +178,12 @@ string appreciate
 string boost_your_savings_with_our_fixed_and_recurring_deposit_calculators
 string bugs
 string convert_currencies_effortlessly_with_our_built_in_tools
+string currency_exchange
 string currency_unit
 string detail_noti
 string distortion
 string do_you_want_to_exit
+string easily_convert_between_currencies_and_get_the_most_up_to_date_rates
 string english
 string face_details
 string feedback
