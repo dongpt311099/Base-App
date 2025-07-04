@@ -3113,7 +3113,9 @@ drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
 drawable business_loan
 drawable car_loan
+drawable circle_table
 drawable da8cf81f5e042cf392628611fed449f077127394
+drawable demo
 drawable design_fab_background
 drawable design_ic_visibility
 drawable design_ic_visibility_off
@@ -3122,6 +3124,8 @@ drawable design_snackbar_background
 drawable detailfeed_background
 drawable discount
 drawable dot_background
+drawable dotblue
+drawable dotorange
 drawable empty_star
 drawable fixed_loan
 drawable flag1
@@ -3155,6 +3159,7 @@ drawable ic_launcher_foreground
 drawable ic_m3_chip_check
 drawable ic_m3_chip_checked_circle
 drawable ic_m3_chip_close
+drawable ic_month
 drawable ic_mtrl_checked_circle
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
@@ -3170,6 +3175,7 @@ drawable ic_select
 drawable ic_settings
 drawable ic_share
 drawable ic_tools
+drawable ic_turnback
 drawable icon_app
 drawable imag_pkge
 drawable image_intro1
@@ -3191,6 +3197,9 @@ drawable intro2_img
 drawable intro_ic
 drawable item_border
 drawable item_border1
+drawable item_border2
+drawable item_border3
+drawable item_border_blue
 drawable m3_avd_hide_password
 drawable m3_avd_show_password
 drawable m3_bottom_sheet_drag_handle
@@ -3275,6 +3284,7 @@ drawable test_level_drawable
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
 drawable top_bar_bg
+drawable top_line
 drawable vat
 drawable worm_dot_background
 drawable worm_dot_stroke_background
@@ -3382,6 +3392,7 @@ id autoCompleteToEnd
 id autoCompleteToStart
 id automatic
 id axisRelative
+id back_to_home
 id background
 id barrier
 id baseline
@@ -3489,6 +3500,7 @@ id edit_query
 id edit_text_id
 id elastic
 id embed
+id emi
 id enabled
 id end
 id endToStart
@@ -3498,6 +3510,8 @@ id escape
 id exitUntilCollapsed
 id expand_activities_button
 id expanded_menu
+id expected_interest_rate
+id expected_interest_rate_input
 id fade
 id fill
 id fill_horizontal
@@ -3514,6 +3528,8 @@ id flagImage
 id flip
 id floating
 id forever
+id form_view_detail_personal_loan
+id format_layout_person_loan
 id fragment_container_view_tag
 id frost
 id fullscreen_header
@@ -3578,6 +3594,13 @@ id linear
 id listMode
 id list_currency
 id list_item
+id loanAmountInput
+id loanAmountLayout
+id loan_money
+id loan_start_date_input
+id loan_start_date_layout
+id loan_term_input
+id loan_term_layout
 id locale
 id lottie_layer_name
 id ltr
@@ -3656,6 +3679,7 @@ id navigation_header_container
 id never
 id neverCompleteToEnd
 id neverCompleteToStart
+id next_button_personal_loan
 id next_intro_1
 id noScroll
 id noState
@@ -3701,6 +3725,11 @@ id path
 id pathRelative
 id peekHeight
 id percent
+id permonth
+id personal_loan
+id personal_loan_percent
+id personal_loan_tenure
+id peryear
 id pin
 id pooling_container_listener_holder_tag
 id position
@@ -3714,6 +3743,7 @@ id ratio
 id rectangles
 id report_drawn
 id restart
+id result_person_layout
 id return_btn
 id reverse
 id reverseSawtooth
@@ -3858,12 +3888,14 @@ id triangle
 id txtTitle
 id unchecked
 id uniform
+id unitVND
 id unlabeled
 id up
 id useLogo
 id vertical
 id vertical_only
 id viewPager
+id view_detail_personal_loan
 id view_offset_helper
 id view_transition
 id view_tree_disjoint_parent
@@ -4005,6 +4037,7 @@ layout activity_feed_back
 layout activity_intro
 layout activity_language
 layout activity_main
+layout activity_personal_loan
 layout activity_splash
 layout currency_language_item
 layout custom_dialog
@@ -4028,6 +4061,9 @@ layout dialog_exit
 layout dialog_notify
 layout dialog_rate
 layout dot_layout
+layout form_person_loan
+layout form_personal_loan_detail
+layout form_view_detail_personal_loan
 layout fragment_first
 layout fragment_home
 layout fragment_second

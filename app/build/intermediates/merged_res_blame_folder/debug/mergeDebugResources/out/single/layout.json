@@ -1,5 +1,9 @@
 [
     {
+        "merged": "com.example.baseapplication.app-mergeDebugResources-70:/layout/activity_personal_loan.xml",
+        "source": "com.example.baseapplication.app-main-73:/layout/activity_personal_loan.xml"
+    },
+    {
         "merged": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-mergeDebugResources-70:\\layout\\fragment_tool_item.xml",
         "source": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\fragment_tool_item.xml"
     },
@@ -8,24 +12,36 @@
         "source": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\item_intro3.xml"
     },
     {
+        "merged": "com.example.baseapplication.app-mergeDebugResources-70:/layout/form_view_detail_personal_loan.xml",
+        "source": "com.example.baseapplication.app-main-73:/layout/form_view_detail_personal_loan.xml"
+    },
+    {
         "merged": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-mergeDebugResources-70:\\layout\\dialog_notify.xml",
         "source": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\dialog_notify.xml"
+    },
+    {
+        "merged": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-mergeDebugResources-70:\\layout\\activity_personal_loan.xml",
+        "source": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\activity_personal_loan.xml"
     },
     {
         "merged": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-mergeDebugResources-70:\\layout\\item_home.xml",
         "source": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\item_home.xml"
     },
     {
-        "merged": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-mergeDebugResources-70:\\layout\\dialog_exit.xml",
-        "source": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\dialog_exit.xml"
-    },
-    {
         "merged": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-mergeDebugResources-70:\\layout\\fragment_home.xml",
         "source": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\fragment_home.xml"
     },
     {
+        "merged": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-mergeDebugResources-70:\\layout\\dialog_exit.xml",
+        "source": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\dialog_exit.xml"
+    },
+    {
         "merged": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-mergeDebugResources-70:\\layout\\tool_bar.xml",
         "source": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\tool_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-mergeDebugResources-70:\\layout\\form_person_loan.xml",
+        "source": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\form_person_loan.xml"
     },
     {
         "merged": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-mergeDebugResources-70:\\layout\\item_intro1.xml",
@@ -44,8 +60,16 @@
         "source": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\activity_currency_unit.xml"
     },
     {
+        "merged": "com.example.baseapplication.app-mergeDebugResources-70:/layout/form_personal_loan_detail.xml",
+        "source": "com.example.baseapplication.app-main-73:/layout/form_personal_loan_detail.xml"
+    },
+    {
         "merged": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-mergeDebugResources-70:\\layout\\fragment_first.xml",
         "source": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-mergeDebugResources-70:\\layout\\form_personal_loan_detail.xml",
+        "source": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\form_personal_loan_detail.xml"
     },
     {
         "merged": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-mergeDebugResources-70:\\layout\\dialog_rate.xml",
@@ -58,10 +82,6 @@
     {
         "merged": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-mergeDebugResources-70:\\layout\\activity_intro.xml",
         "source": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\activity_intro.xml"
-    },
-    {
-        "merged": "com.example.baseapplication.app-mergeDebugResources-70:/layout/item_home.xml",
-        "source": "com.example.baseapplication.app-main-73:/layout/item_home.xml"
     },
     {
         "merged": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-mergeDebugResources-70:\\layout\\currency_language_item.xml",

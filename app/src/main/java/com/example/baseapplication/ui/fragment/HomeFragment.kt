@@ -1,12 +1,15 @@
 package com.example.baseapplication.ui.fragment
 
+import android.content.Intent
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import android.widget.TextView
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.transition.Visibility
+import com.example.baseapplication.PersonalLoanActivity
 import com.example.baseapplication.R
 import com.example.baseapplication.databinding.FragmentHomeBinding
 import com.example.baseapplication.ui.adapter.HomeAdapter
@@ -31,7 +34,7 @@ class HomeFragment : Fragment() {
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
-        binding= FragmentHomeBinding.inflate(layoutInflater,container,false)
+        binding = FragmentHomeBinding.inflate(layoutInflater, container, false)
         // Inflate the layout for this fragment
 
         val listHomeTool = listOf(
@@ -48,12 +51,14 @@ class HomeFragment : Fragment() {
         val recyclerView = binding.homeRecyclerview
         recyclerView.layoutManager = LinearLayoutManager(requireContext())
         recyclerView.adapter = HomeAdapter(listHomeTool)
+
+        binding.personalLoan.setOnClickListener {
+            val intent = Intent(requireContext(), PersonalLoanActivity::class.java)
+            startActivity(intent)
+        }
+
         return binding.root
-
-
     }
-
-
 
 
 }

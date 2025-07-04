@@ -19,37 +19,50 @@ class ContentActivity : BaseActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        binding= ActivityContentBinding.inflate(layoutInflater)
+        binding = ActivityContentBinding.inflate(layoutInflater)
         enableEdgeToEdge()
         setContentView(binding.getRoot())
-        supportFragmentManager.beginTransaction().replace(binding.container.id, HomeFragment()).commit()
+        supportFragmentManager.beginTransaction().replace(binding.container.id, HomeFragment())
+            .commit()
 
-        binding.bottomNavigation.setOnItemSelectedListener {item->
-            when(item.itemId){
-                R.id.Home->{
+        binding.bottomNavigation.setOnItemSelectedListener { item ->
+            when (item.itemId) {
+                R.id.Home -> {
                     binding.title.text = getString(R.string.finance)
-                    supportFragmentManager.beginTransaction().replace(binding.container.id,
-                        HomeFragment()).commit()
+                    supportFragmentManager.beginTransaction().replace(
+                        binding.container.id,
+                        HomeFragment()
+                    ).commit()
                     true
                 }
-                R.id.Tools->{
+
+                R.id.Tools -> {
                     binding.title.text = getString(R.string.tools)
-                    supportFragmentManager.beginTransaction().replace(binding.container.id,
-                        ToolsFragment()).commit()
+                    supportFragmentManager.beginTransaction().replace(
+                        binding.container.id,
+                        ToolsFragment()
+                    ).commit()
                     true
                 }
-                R.id.History->{
+
+                R.id.History -> {
                     binding.title.text = getString(R.string.history)
-                    supportFragmentManager.beginTransaction().replace(binding.container.id,
-                        SettingsFragment()).commit()
+                    supportFragmentManager.beginTransaction().replace(
+                        binding.container.id,
+                        SettingsFragment()
+                    ).commit()
                     true
                 }
-                R.id.Settings->{
+
+                R.id.Settings -> {
                     binding.title.text = getString(R.string.settings)
-                    supportFragmentManager.beginTransaction().replace(binding.container.id,
-                        SettingsFragment()).commit()
+                    supportFragmentManager.beginTransaction().replace(
+                        binding.container.id,
+                        SettingsFragment()
+                    ).commit()
                     true
                 }
+
                 else -> false
             }
         }

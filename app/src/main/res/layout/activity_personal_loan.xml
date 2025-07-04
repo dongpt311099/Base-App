@@ -1,10 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:orientation="vertical"
     tools:context=".PersonalLoanActivity">
-    <include layout="@layout/tool_bar"
-</androidx.constraintlayout.widget.ConstraintLayout>
+
+    <include layout="@layout/tool_bar" />
+
+    <include
+        android:id="@+id/format_layout_person_loan"
+        layout="@layout/form_person_loan" />
+
+    <include
+        android:id="@+id/result_person_layout"
+        layout="@layout/form_personal_loan_detail" />
+
+    <include
+        android:id="@+id/form_view_detail_personal_loan"
+        layout="@layout/form_view_detail_personal_loan" />
+
+    <FrameLayout
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <TextView
+        android:id="@+id/next_button_personal_loan"
+        android:layout_width="match_parent"
+        android:layout_height="54dp"
+        android:layout_marginHorizontal="16dp"
+        android:layout_marginVertical="15dp"
+        android:background="@drawable/item_border1"
+        android:gravity="center"
+        android:text="@string/next"
+        android:textColor="@color/white"
+        android:textSize="16sp" />
+</LinearLayout>

@@ -24,10 +24,6 @@
         "source": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\business_loan.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/layout_item_home.xml.flat",
-        "source": "com.example.baseapplication.app-main-73:/layout/item_home.xml"
-    },
-    {
         "merged": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_img_amount.xml.flat",
         "source": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\img_amount.xml"
     },
@@ -36,12 +32,24 @@
         "source": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\fragment_home.xml"
     },
     {
+        "merged": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_ic_turnback.xml.flat",
+        "source": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\ic_turnback.xml"
+    },
+    {
+        "merged": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\layout_form_personal_loan_detail.xml.flat",
+        "source": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\form_personal_loan_detail.xml"
+    },
+    {
         "merged": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\layout_item_intro3.xml.flat",
         "source": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\item_intro3.xml"
     },
     {
         "merged": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\layout_activity_feed_back.xml.flat",
         "source": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\activity_feed_back.xml"
+    },
+    {
+        "merged": "com.example.baseapplication.app-debug-71:/layout_form_view_detail_personal_loan.xml.flat",
+        "source": "com.example.baseapplication.app-main-73:/layout/form_view_detail_personal_loan.xml"
     },
     {
         "merged": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\layout_fragment_tool_item.xml.flat",
@@ -54,6 +62,10 @@
     {
         "merged": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_img_aed.xml.flat",
         "source": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\img_aed.xml"
+    },
+    {
+        "merged": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\layout_activity_personal_loan.xml.flat",
+        "source": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\activity_personal_loan.xml"
     },
     {
         "merged": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_image_ngn.xml.flat",
@@ -92,12 +104,16 @@
         "source": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
+        "merged": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\raw_loading_bar.json.flat",
+        "source": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\raw\\loading_bar.json"
+    },
+    {
         "merged": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\color_selector_optfeed_text.xml.flat",
         "source": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\color\\selector_optfeed_text.xml"
     },
     {
-        "merged": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\raw_loading_bar.json.flat",
-        "source": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\raw\\loading_bar.json"
+        "merged": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_top_line.xml.flat",
+        "source": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\top_line.xml"
     },
     {
         "merged": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\mipmap-xhdpi_ic_launcher.webp.flat",
@@ -152,12 +168,20 @@
         "source": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\item_intro1.xml"
     },
     {
+        "merged": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_item_border_blue.xml.flat",
+        "source": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\item_border_blue.xml"
+    },
+    {
         "merged": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\layout_activity_splash.xml.flat",
         "source": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\activity_splash.xml"
     },
     {
         "merged": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\raw_loading_splash.json.flat",
         "source": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\raw\\loading_splash.json"
+    },
+    {
+        "merged": "com.example.baseapplication.app-debug-71:/layout_activity_personal_loan.xml.flat",
+        "source": "com.example.baseapplication.app-main-73:/layout/activity_personal_loan.xml"
     },
     {
         "merged": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_empty_star.xml.flat",
@@ -192,12 +216,20 @@
         "source": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\item_home.xml"
     },
     {
+        "merged": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_item_border3.xml.flat",
+        "source": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\item_border3.xml"
+    },
+    {
         "merged": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_ic_settings.xml.flat",
         "source": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\ic_settings.xml"
     },
     {
         "merged": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_img_note.xml.flat",
         "source": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\img_note.xml"
+    },
+    {
+        "merged": "com.example.baseapplication.app-debug-71:/drawable_demo.xml.flat",
+        "source": "com.example.baseapplication.app-main-73:/drawable/demo.xml"
     },
     {
         "merged": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_background.xml.flat",
@@ -214,6 +246,10 @@
     {
         "merged": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\layout_activity_content.xml.flat",
         "source": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\activity_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\layout_form_person_loan.xml.flat",
+        "source": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\form_person_loan.xml"
     },
     {
         "merged": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_flag3.png.flat",
@@ -238,6 +274,10 @@
     {
         "merged": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\layout_item_intro4.xml.flat",
         "source": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\item_intro4.xml"
+    },
+    {
+        "merged": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_dotblue.png.flat",
+        "source": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\dotblue.png"
     },
     {
         "merged": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_ic_done_gray.xml.flat",
@@ -328,6 +368,10 @@
         "source": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\recurring_loan.xml"
     },
     {
+        "merged": "com.example.baseapplication.app-debug-71:/layout_form_personal_loan_detail.xml.flat",
+        "source": "com.example.baseapplication.app-main-73:/layout/form_personal_loan_detail.xml"
+    },
+    {
         "merged": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_item_border1.xml.flat",
         "source": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\item_border1.xml"
     },
@@ -358,6 +402,10 @@
     {
         "merged": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_img_currency.xml.flat",
         "source": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\img_currency.xml"
+    },
+    {
+        "merged": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_ic_month.xml.flat",
+        "source": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\ic_month.xml"
     },
     {
         "merged": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_selector_sendbtn.xml.flat",
@@ -404,6 +452,10 @@
         "source": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\ic_policy.xml"
     },
     {
+        "merged": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_circle_table.xml.flat",
+        "source": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\circle_table.xml"
+    },
+    {
         "merged": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_imag_pkge.xml.flat",
         "source": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\imag_pkge.xml"
     },
@@ -428,6 +480,10 @@
         "source": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\btn_background.xml"
     },
     {
+        "merged": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_dotorange.png.flat",
+        "source": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\dotorange.png"
+    },
+    {
         "merged": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_ic_lang.xml.flat",
         "source": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\ic_lang.xml"
     },
@@ -446,6 +502,10 @@
     {
         "merged": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_ic_done.xml.flat",
         "source": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\ic_done.xml"
+    },
+    {
+        "merged": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_item_border2.xml.flat",
+        "source": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\item_border2.xml"
     },
     {
         "merged": "C:\\Users\\dauca\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_ic_rate.xml.flat",

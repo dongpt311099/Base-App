@@ -14,6 +14,7 @@
         android:layout_marginHorizontal="16dp">
 
         <LinearLayout
+            android:id="@+id/personal_loan"
             android:layout_width="match_parent"
             android:layout_height="90dp"
             android:orientation="horizontal"

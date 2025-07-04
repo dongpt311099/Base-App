@@ -5,6 +5,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.FrameLayout;
+import android.widget.LinearLayout;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.recyclerview.widget.RecyclerView;
@@ -25,11 +26,15 @@ public final class FragmentHomeBinding implements ViewBinding {
   @NonNull
   public final FrameLayout main;
 
+  @NonNull
+  public final LinearLayout personalLoan;
+
   private FragmentHomeBinding(@NonNull FrameLayout rootView, @NonNull RecyclerView homeRecyclerview,
-      @NonNull FrameLayout main) {
+      @NonNull FrameLayout main, @NonNull LinearLayout personalLoan) {
     this.rootView = rootView;
     this.homeRecyclerview = homeRecyclerview;
     this.main = main;
+    this.personalLoan = personalLoan;
   }
 
   @Override
@@ -67,7 +72,13 @@ public final class FragmentHomeBinding implements ViewBinding {
 
       FrameLayout main = (FrameLayout) rootView;
 
-      return new FragmentHomeBinding((FrameLayout) rootView, homeRecyclerview, main);
+      id = R.id.personal_loan;
+      LinearLayout personalLoan = ViewBindings.findChildViewById(rootView, id);
+      if (personalLoan == null) {
+        break missingId;
+      }
+
+      return new FragmentHomeBinding((FrameLayout) rootView, homeRecyclerview, main, personalLoan);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));
