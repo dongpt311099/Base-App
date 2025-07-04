@@ -10,7 +10,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="47dp"
         android:layout_marginEnd="12dp"
-        android:src="@drawable/intro_ic"/>
+        android:src="@drawable/ic_turnback"/>
     <TextView
         android:id="@+id/toolbar_text"
         android:layout_width="wrap_content"

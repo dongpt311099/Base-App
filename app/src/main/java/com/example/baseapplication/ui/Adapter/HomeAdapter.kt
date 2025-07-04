@@ -19,7 +19,7 @@ class HomeAdapter (
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): HomeViewHolder {
         val view = LayoutInflater.from(parent.context)
-            .inflate(R.layout.fragment_home, parent, false)
+            .inflate(R.layout.item_home, parent, false)
         return HomeViewHolder(view)
     }
 
