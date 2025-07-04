@@ -12,6 +12,7 @@ import androidx.transition.Visibility
 import com.example.baseapplication.PersonalLoanActivity
 import com.example.baseapplication.R
 import com.example.baseapplication.databinding.FragmentHomeBinding
+import com.example.baseapplication.ui.activity.FixedDepositActivity
 import com.example.baseapplication.ui.adapter.HomeAdapter
 import com.example.baseapplication.ui.adapter.ToolAdapter
 import com.example.baseapplication.ui.data.HomeItem
@@ -50,7 +51,22 @@ class HomeFragment : Fragment() {
 
         val recyclerView = binding.homeRecyclerview
         recyclerView.layoutManager = LinearLayoutManager(requireContext())
-        recyclerView.adapter = HomeAdapter(listHomeTool)
+        recyclerView.adapter = HomeAdapter(listHomeTool){
+            listHome->
+            when(listHome.name){
+                "Mortgage Loan"-> {}
+                "Car Loan"->{}
+                "Business Loan"->{}
+                "Fixed Deposit"->{
+                    val intent = Intent(requireContext(),FixedDepositActivity::class.java)
+                    startActivity(intent)
+                }
+                "Recurring Deposit"->{}
+                "GST Calculator"->{}
+                "VAT Calculator"->{}
+                "Discount Calculaton"->{}
+            }
+        }
 
         binding.personalLoan.setOnClickListener {
             val intent = Intent(requireContext(), PersonalLoanActivity::class.java)

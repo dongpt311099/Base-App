@@ -33,6 +33,7 @@ class RateDialog (): BottomSheetDialogFragment() {
 
     private fun setListener(){
         binding.rateBtn.setOnClickListener(){
+            dismiss()
             val intent= Intent(requireContext(), FeedBackActivity::class.java)
             startActivity(intent)
         }

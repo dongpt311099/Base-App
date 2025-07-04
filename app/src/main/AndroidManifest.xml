@@ -16,7 +16,13 @@
             android:name=".PersonalLoanActivity"
             android:exported="false" />
         <activity
-            android:name=".HomeActivity"
+            android:name=".ui.activity.FixedDepositActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.activity.TimeZoneActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.activity.CurrencyExchangeActivity"
             android:exported="false" />
         <activity
             android:name=".ui.activity.FeedBackActivity"

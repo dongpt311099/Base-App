@@ -9,11 +9,13 @@ import android.widget.TextView
 import android.widget.Toast
 import androidx.recyclerview.widget.RecyclerView
 import com.example.baseapplication.R
+import com.example.baseapplication.ui.Domain.SettingOption
 import com.example.baseapplication.ui.data.ToolItem
 
 class ToolAdapter(
-    private val list: List<ToolItem>,
+    private val list: List<ToolItem>,private val onItemClick:(ToolItem)->Unit
 ) : RecyclerView.Adapter<ToolAdapter.ToolViewHolder>() {
+
     inner class ToolViewHolder(view: View) : RecyclerView.ViewHolder(view) {
         val toolImage: ImageView = view.findViewById(R.id.img_tool)
         val name: TextView = view.findViewById(R.id.tool_name)
@@ -50,6 +52,10 @@ class ToolAdapter(
             holder.itemView.setOnClickListener{
                 Toast.makeText(holder.itemView.context, "${tool.name}", Toast.LENGTH_SHORT).show()
             }
+        }
+
+        holder.itemView.setOnClickListener {
+            onItemClick(tool)
         }
 
     }

@@ -31,7 +31,13 @@
             android:name="com.example.baseapplication.PersonalLoanActivity"
             android:exported="false" />
         <activity
-            android:name="com.example.baseapplication.HomeActivity"
+            android:name="com.example.baseapplication.ui.activity.FixedDepositActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.baseapplication.ui.activity.TimeZoneActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.baseapplication.ui.activity.CurrencyExchangeActivity"
             android:exported="false" />
         <activity
             android:name="com.example.baseapplication.ui.activity.FeedBackActivity"

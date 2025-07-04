@@ -3,6 +3,7 @@ package com.example.baseapplication.ui.adapter
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import android.widget.AdapterView
 import android.widget.ImageView
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
@@ -10,7 +11,7 @@ import com.example.baseapplication.R
 import com.example.baseapplication.ui.data.HomeItem
 
 class HomeAdapter (
-    private val list: List<HomeItem>,
+    private val list: List<HomeItem>, private val onItemClick: (HomeItem)->Unit
 ): RecyclerView.Adapter<HomeAdapter.HomeViewHolder>() {
     inner class HomeViewHolder(view: View) : RecyclerView.ViewHolder(view) {
         val img: ImageView = view.findViewById(R.id.img_item_home)
@@ -31,5 +32,8 @@ class HomeAdapter (
         val item = list[position]
         holder.img.setImageResource(item.img)
         holder.name.text = item.name
+        holder.itemView.setOnClickListener {
+            onItemClick(item)
+        }
     }
 }
