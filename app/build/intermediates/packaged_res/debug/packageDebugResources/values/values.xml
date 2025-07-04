@@ -23,6 +23,7 @@
     <string name="appreciate">We’d greatly appreciate if you can rate us</string>
     <string name="boost_your_savings_with_our_fixed_and_recurring_deposit_calculators">Boost your savings with our fixed and \nrecurring deposit calculators</string>
     <string name="bugs">Bugs</string>
+    <string name="compounded_interest">Compounded Interest Frequency</string>
     <string name="convert_currencies_effortlessly_with_our_built_in_tools">Convert currencies effortlessly with our \nbuilt-in tools</string>
     <string name="currency_exchange">Currency Exchange</string>
     <string name="currency_unit">Currency Unit</string>
@@ -33,9 +34,11 @@
     <string name="enter_a_valid_number">Enter a valid number (maximum of 999 999 999 999)</string>
     <string name="exchange">Exchange</string>
     <string name="face_details">Face details</string>
+    <string name="fd_tenure_fd_term">FD Tenure (FD term)</string>
     <string name="feedback">Feedback</string>
     <string name="finance">finance</string>
     <string name="first_fragment_label">First Fragment</string>
+    <string name="fixed_deposit">Fixed Deposit</string>
     <string name="flag">Flag</string>
     <string name="from_personal_to_business_loans_calculate_payments_easily_in_one_place">From personal to business loans, \ncalculate payments easily in one place</string>
     <string name="handy_conversion_tools">Handy Conversion Tools</string>
@@ -43,6 +46,8 @@
     <string name="hint_detailed_feedback">We would greatly appreciate it if you could kindly give us detailed feedback.</string>
     <string name="history">History</string>
     <string name="home">Home</string>
+    <string name="interest_rate">Interest Rate</string>
+    <string name="investment_amount">Investment Amount</string>
     <string name="loan">Loan</string>
     <string name="lorem_ipsum">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
@@ -96,7 +101,9 @@
     <string name="send">Send</string>
     <string name="settings">Settings</string>
     <string name="smart_savings_made_simple">Smart Savings Made Simple</string>
+    <string name="start_date">Start Date</string>
     <string name="this_action">This action may contain ads...</string>
+    <string name="time_zone_exchange">Time Zone Exchange</string>
     <string name="todo">TODO</string>
     <string name="tools">Tools</string>
     <string name="yes">Yes</string>
@@ -104,6 +111,9 @@
     <style name="Base.Theme.BaseApplication" parent="Theme.Material3.DayNight.NoActionBar">
         
         
+    </style>
+    <style name="DateTimeDialogTheme" parent="Theme.AppCompat.Light.Dialog">
+        <item name="colorAccent">@color/opt_selector</item>
     </style>
     <style name="Theme.BaseApplication" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         

@@ -32,6 +32,10 @@
         "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\ic_vietnam.xml"
     },
     {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_ic_clock.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\ic_clock.xml"
+    },
+    {
         "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_flag3.png.flat",
         "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\flag3.png"
     },
@@ -56,6 +60,10 @@
         "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\ic_arrow_down.xml"
     },
     {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\layout_spinner_item_timez.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\spinner_item_timez.xml"
+    },
+    {
         "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_ic_lang.xml.flat",
         "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\ic_lang.xml"
     },
@@ -76,24 +84,20 @@
         "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\xml\\data_extraction_rules.xml"
-    },
-    {
-        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\layout_iteam_intro1.xml.flat",
-        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\iteam_intro1.xml"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_image_intro4.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\image_intro4.xml"
     },
     {
         "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\layout_fragment_home.xml.flat",
         "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\fragment_home.xml"
     },
     {
-        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_image_intro4.xml.flat",
-        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\image_intro4.xml"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\layout_iteam_intro1.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\iteam_intro1.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-debug-71:/layout_activity_current_exchange.xml.flat",
-        "source": "com.example.baseapplication.app-main-73:/layout/activity_current_exchange.xml"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\xml\\data_extraction_rules.xml"
     },
     {
         "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\layout_fragment_tools.xml.flat",
@@ -156,6 +160,10 @@
         "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\radio_button.png"
     },
     {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\layout_spinner_item_basic.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\spinner_item_basic.xml"
+    },
+    {
         "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\mipmap-hdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\mipmap-hdpi\\ic_launcher.webp"
     },
@@ -180,12 +188,20 @@
         "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\radio_button_selected.xml"
     },
     {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\layout_activity_time_zone.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\activity_time_zone.xml"
+    },
+    {
         "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\layout_dialog_notify.xml.flat",
         "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\dialog_notify.xml"
     },
     {
         "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_ic_his.xml.flat",
         "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\ic_his.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_ic_calendar.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\ic_calendar.xml"
     },
     {
         "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\layout_fragment_first.xml.flat",
@@ -292,6 +308,10 @@
         "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\image_intro1.xml"
     },
     {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_datetime_background.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\datetime_background.xml"
+    },
+    {
         "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_ic_policy.xml.flat",
         "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\ic_policy.xml"
     },
@@ -328,6 +348,10 @@
         "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\drawable\\_9b493b5527bcc012304c13b4d9f1d707c2d91f6.jpg"
     },
     {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\layout_activity_fixed_deposit.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\activity_fixed_deposit.xml"
+    },
+    {
         "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\layout_fragment_settings.xml.flat",
         "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\fragment_settings.xml"
     },
@@ -346,6 +370,10 @@
     {
         "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\layout_currency_language_item.xml.flat",
         "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\currency_language_item.xml"
+    },
+    {
+        "merged": "com.example.baseapplication.app-debug-71:/layout_spinner_item_timez.xml.flat",
+        "source": "com.example.baseapplication.app-main-73:/layout/spinner_item_timez.xml"
     },
     {
         "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-debug-71:\\drawable_flag4.png.flat",

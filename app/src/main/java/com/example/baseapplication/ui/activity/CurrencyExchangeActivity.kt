@@ -5,15 +5,11 @@ import android.text.Editable
 import android.text.TextWatcher
 import android.view.View
 import androidx.activity.enableEdgeToEdge
-import androidx.appcompat.app.AppCompatActivity
-import androidx.core.view.ViewCompat
-import androidx.core.view.WindowInsetsCompat
-import com.example.baseapplication.R
 import com.example.baseapplication.databinding.ActivityCurrentExchangeBinding
 import com.example.baseapplication.ui.Adapter.CountrySpinnerAdapter
 import com.example.baseapplication.ui.Domain.Country
 
-class CurrentExchangeActivity : BaseActivity() {
+class CurrencyExchangeActivity : BaseActivity() {
 
     private lateinit var binding: ActivityCurrentExchangeBinding
 
@@ -63,8 +59,13 @@ class CurrentExchangeActivity : BaseActivity() {
         binding.exchangeBtn.setOnClickListener {
             val input = binding.moneyBefore.text.toString()
             val number = input.toLongOrNull()
-            binding.errorTxt.visibility =
-                if (number == null || number < 1 || number > 999999999999) View.VISIBLE else View.GONE
+            if (number == null || number < 1 || number > 999999999999){
+                binding.errorTxt.visibility = View.VISIBLE
+            }
+             else {
+                binding.errorTxt.visibility=View.GONE
+                binding.moneyAfter.text = input
+            }
         }
     }
 }

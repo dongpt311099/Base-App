@@ -86,4 +86,11 @@
     <string name="reset">Reset</string>
     <string name="enter_a_valid_number">Enter a valid number (maximum of 999 999 999 999)</string>
     <string name="exchange">Exchange</string>
+    <string name="time_zone_exchange">Time Zone Exchange</string>
+    <string name="fixed_deposit">Fixed Deposit</string>
+    <string name="investment_amount">Investment Amount</string>
+    <string name="interest_rate">Interest Rate</string>
+    <string name="fd_tenure_fd_term">FD Tenure (FD term)</string>
+    <string name="compounded_interest">Compounded Interest Frequency</string>
+    <string name="start_date">Start Date</string>
 </resources>

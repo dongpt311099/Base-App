@@ -28,6 +28,12 @@
         android:testOnly="true"
         android:theme="@style/Theme.BaseApplication" >
         <activity
+            android:name="com.example.baseapplication.ui.activity.TimeZoneActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.baseapplication.ui.activity.CurrencyExchangeActivity"
+            android:exported="false" />
+        <activity
             android:name="com.example.baseapplication.ui.activity.FeedBackActivity"
             android:exported="false" />
         <activity
@@ -47,7 +53,7 @@
             android:name="com.example.baseapplication.ui.activity.ContentActivity"
             android:exported="false" />
         <activity
-            android:name="com.example.baseapplication.ui.activity.CurrentExchangeActivity"
+            android:name="com.example.baseapplication.ui.activity.FixedDepositActivity"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

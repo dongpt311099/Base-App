@@ -3115,6 +3115,7 @@ drawable btn_radio_off_to_on_mtrl_animation
 drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
 drawable da8cf81f5e042cf392628611fed449f077127394
+drawable datetime_background
 drawable design_fab_background
 drawable design_ic_visibility
 drawable design_ic_visibility_off
@@ -3132,6 +3133,7 @@ drawable ic_arrow
 drawable ic_arrow_back_black_24
 drawable ic_arrow_down
 drawable ic_bell
+drawable ic_calendar
 drawable ic_call_answer
 drawable ic_call_answer_low
 drawable ic_call_answer_video
@@ -3139,6 +3141,7 @@ drawable ic_call_answer_video_low
 drawable ic_call_decline
 drawable ic_call_decline_low
 drawable ic_clear_black_24
+drawable ic_clock
 drawable ic_clock_black_24dp
 drawable ic_done
 drawable ic_exit
@@ -3271,6 +3274,7 @@ id ALT
 id BOTTOM_END
 id BOTTOM_START
 id CTRL
+id FD_txt
 id FUNCTION
 id FirstFragment
 id History
@@ -3412,6 +3416,7 @@ id close_btn
 id closest
 id collapseActionView
 id compose_view_saveable_id_tag
+id compounded_txt
 id compress
 id confirm_button
 id constraint
@@ -3427,6 +3432,8 @@ id counterclockwise
 id country_after
 id country_before
 id cradle
+id cur_symbol
+id currency
 id currencyItem
 id currencyName
 id currencyNameDetail
@@ -3436,6 +3443,9 @@ id currentState
 id custom
 id customPanel
 id cut
+id date_after
+id date_before
+id date_layout
 id date_picker_actions
 id decelerate
 id decelerateAndComplete
@@ -3490,6 +3500,7 @@ id exitUntilCollapsed
 id expand_activities_button
 id expanded_menu
 id fade
+id fd_spinner
 id fill
 id fill_horizontal
 id fill_vertical
@@ -3540,10 +3551,12 @@ id included
 id indeterminate
 id info
 id inspection_slot_table_set
+id interest_txt
 id intro1
 id intro2
 id intro3
 id intro4
+id investment_txt
 id invisible
 id inward
 id is_pooling_container_tag
@@ -3646,6 +3659,7 @@ id navigation_header_container
 id never
 id neverCompleteToEnd
 id neverCompleteToStart
+id next_btn
 id next_intro_1
 id noScroll
 id noState
@@ -3779,6 +3793,7 @@ id start5
 id startHorizontal
 id startToEnd
 id startVertical
+id start_date
 id staticLayout
 id staticPostLayout
 id stop
@@ -3822,6 +3837,14 @@ id textinput_suffix_text
 id textview_first
 id textview_second
 id time
+id time_after
+id time_before
+id time_layout
+id timez_after
+id timez_after_txt
+id timez_before
+id timez_before_txt
+id timez_spinner_txt
 id title
 id titleDividerNoCustom
 id title_error
@@ -3845,7 +3868,6 @@ id tvShow
 id txtTitle
 id unchecked
 id uniform
-id unit
 id unlabeled
 id up
 id useLogo
@@ -3991,10 +4013,12 @@ layout activity_content
 layout activity_currency_unit
 layout activity_current_exchange
 layout activity_feed_back
+layout activity_fixed_deposit
 layout activity_intro
 layout activity_language
 layout activity_main
 layout activity_splash
+layout activity_time_zone
 layout currency_language_item
 layout custom_dialog
 layout design_bottom_navigation_item
@@ -4089,7 +4113,9 @@ layout notification_template_part_time
 layout select_dialog_item_material
 layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
+layout spinner_item_basic
 layout spinner_item_country
+layout spinner_item_timez
 layout spring_dot_layout
 layout support_simple_spinner_dropdown_item
 layout viewholder_settings
@@ -4155,6 +4181,7 @@ string character_counter_pattern
 string clear_text_end_icon_content_description
 string close_drawer
 string close_sheet
+string compounded_interest
 string convert_currencies_effortlessly_with_our_built_in_tools
 string currency_exchange
 string currency_unit
@@ -4174,9 +4201,11 @@ string exposed_dropdown_menu_content_description
 string fab_transformation_scrim_behavior
 string fab_transformation_sheet_behavior
 string face_details
+string fd_tenure_fd_term
 string feedback
 string finance
 string first_fragment_label
+string fixed_deposit
 string flag
 string from_personal_to_business_loans_calculate_payments_easily_in_one_place
 string handy_conversion_tools
@@ -4188,6 +4217,8 @@ string home
 string icon_content_description
 string in_progress
 string indeterminate
+string interest_rate
+string investment_amount
 string item_view_role_description
 string loan
 string lorem_ipsum
@@ -4327,11 +4358,13 @@ string settings
 string side_sheet_accessibility_pane_title
 string side_sheet_behavior
 string smart_savings_made_simple
+string start_date
 string status_bar_notification_info_overflow
 string switch_role
 string tab
 string template_percent
 string this_action
+string time_zone_exchange
 string todo
 string tools
 string yes
@@ -4627,6 +4660,7 @@ style Base_Widget_MaterialComponents_TextView
 style CardView
 style CardView_Dark
 style CardView_Light
+style DateTimeDialogTheme
 style DialogWindowTheme
 style FloatingDialogTheme
 style FloatingDialogWindowTheme

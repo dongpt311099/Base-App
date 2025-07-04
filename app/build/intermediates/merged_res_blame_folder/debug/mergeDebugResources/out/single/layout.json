@@ -8,12 +8,12 @@
         "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\activity_language.xml"
     },
     {
-        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-mergeDebugResources-70:\\layout\\activity_current_exchange.xml",
-        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\activity_current_exchange.xml"
-    },
-    {
         "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-mergeDebugResources-70:\\layout\\fragment_settings.xml",
         "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-mergeDebugResources-70:\\layout\\activity_current_exchange.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\activity_current_exchange.xml"
     },
     {
         "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-mergeDebugResources-70:\\layout\\activity_content.xml",
@@ -64,12 +64,24 @@
         "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\activity_feed_back.xml"
     },
     {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-mergeDebugResources-70:\\layout\\spinner_item_basic.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\spinner_item_basic.xml"
+    },
+    {
+        "merged": "com.example.baseapplication.app-mergeDebugResources-70:/layout/spinner_item_timez.xml",
+        "source": "com.example.baseapplication.app-main-73:/layout/spinner_item_timez.xml"
+    },
+    {
         "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-mergeDebugResources-70:\\layout\\dialog_error.xml",
         "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\dialog_error.xml"
     },
     {
         "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-mergeDebugResources-70:\\layout\\fragment_tools.xml",
         "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\fragment_tools.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-mergeDebugResources-70:\\layout\\activity_time_zone.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\activity_time_zone.xml"
     },
     {
         "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-mergeDebugResources-70:\\layout\\iteam_intro1.xml",
@@ -80,12 +92,16 @@
         "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\activity_splash.xml"
     },
     {
-        "merged": "com.example.baseapplication.app-mergeDebugResources-70:/layout/activity_current_exchange.xml",
-        "source": "com.example.baseapplication.app-main-73:/layout/activity_current_exchange.xml"
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-mergeDebugResources-70:\\layout\\activity_fixed_deposit.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\activity_fixed_deposit.xml"
     },
     {
         "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-mergeDebugResources-70:\\layout\\activity_intro.xml",
         "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\activity_intro.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-mergeDebugResources-70:\\layout\\spinner_item_timez.xml",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-main-73:\\layout\\spinner_item_timez.xml"
     },
     {
         "merged": "C:\\Users\\DELL\\.gradle\\daemon\\8.9\\com.example.baseapplication.app-mergeDebugResources-70:\\layout\\iteam_intro3.xml",
