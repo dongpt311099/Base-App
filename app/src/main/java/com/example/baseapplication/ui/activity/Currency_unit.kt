@@ -20,7 +20,7 @@ import com.example.baseapplication.R
 import com.example.baseapplication.databinding.ActivityCurrencyUnitBinding
 import com.example.baseapplication.ui.adapter.CurrencyUnitAdapter
 import com.example.baseapplication.ui.adapter.LanguageAdapter
-import com.example.baseapplication.ui.model.CurrencyUnitItem
+import com.example.baseapplication.ui.data.CurrencyUnitItem
 
 class Currency_unit : BaseActivity() {
 

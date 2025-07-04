@@ -4,10 +4,10 @@ package com.example.baseapplication.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.LinearLayout;
-import android.widget.TextView;
+import android.widget.FrameLayout;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
+import androidx.recyclerview.widget.RecyclerView;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
 import com.example.baseapplication.R;
@@ -17,24 +17,24 @@ import java.lang.String;
 
 public final class FragmentHomeBinding implements ViewBinding {
   @NonNull
-  private final LinearLayout rootView;
+  private final FrameLayout rootView;
 
   @NonNull
-  public final TextView testBtn;
+  public final RecyclerView homeRecyclerview;
 
   @NonNull
-  public final TextView tvShow;
+  public final FrameLayout main;
 
-  private FragmentHomeBinding(@NonNull LinearLayout rootView, @NonNull TextView testBtn,
-      @NonNull TextView tvShow) {
+  private FragmentHomeBinding(@NonNull FrameLayout rootView, @NonNull RecyclerView homeRecyclerview,
+      @NonNull FrameLayout main) {
     this.rootView = rootView;
-    this.testBtn = testBtn;
-    this.tvShow = tvShow;
+    this.homeRecyclerview = homeRecyclerview;
+    this.main = main;
   }
 
   @Override
   @NonNull
-  public LinearLayout getRoot() {
+  public FrameLayout getRoot() {
     return rootView;
   }
 
@@ -59,19 +59,15 @@ public final class FragmentHomeBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
-      id = R.id.testBtn;
-      TextView testBtn = ViewBindings.findChildViewById(rootView, id);
-      if (testBtn == null) {
+      id = R.id.homeRecyclerview;
+      RecyclerView homeRecyclerview = ViewBindings.findChildViewById(rootView, id);
+      if (homeRecyclerview == null) {
         break missingId;
       }
 
-      id = R.id.tvShow;
-      TextView tvShow = ViewBindings.findChildViewById(rootView, id);
-      if (tvShow == null) {
-        break missingId;
-      }
+      FrameLayout main = (FrameLayout) rootView;
 
-      return new FragmentHomeBinding((LinearLayout) rootView, testBtn, tvShow);
+      return new FragmentHomeBinding((FrameLayout) rootView, homeRecyclerview, main);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

@@ -5,9 +5,13 @@ import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.transition.Visibility
 import com.example.baseapplication.R
 import com.example.baseapplication.databinding.FragmentHomeBinding
+import com.example.baseapplication.ui.adapter.HomeAdapter
+import com.example.baseapplication.ui.adapter.ToolAdapter
+import com.example.baseapplication.ui.data.HomeItem
 
 // TODO: Rename parameter arguments, choose names that match
 // the fragment initialization parameters, e.g. ARG_ITEM_NUMBER
@@ -29,26 +33,29 @@ class HomeFragment : Fragment() {
     ): View? {
         binding= FragmentHomeBinding.inflate(layoutInflater,container,false)
         // Inflate the layout for this fragment
+
+        val listHomeTool = listOf(
+            HomeItem("Mortgage Loan", R.drawable.frame_353),
+            HomeItem("Car Loan", R.drawable.car_loan),
+            HomeItem("Business Loan", R.drawable.business_loan),
+            HomeItem("Fixed Deposit", R.drawable.fixed_loan),
+            HomeItem("Recurring Deposit", R.drawable.recurring_loan),
+            HomeItem("GST Calculator", R.drawable.gsp_loan),
+            HomeItem("VAT Calculator", R.drawable.vat),
+            HomeItem("Discount Calculator", R.drawable.discount)
+        )
+
+        val recyclerView = binding.homeRecyclerview
+        recyclerView.layoutManager = LinearLayoutManager(requireContext())
+        recyclerView.adapter = HomeAdapter(listHomeTool)
         return binding.root
 
 
     }
 
 
-    override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
-        super.onViewCreated(view, savedInstanceState)
-        setOnClick()
-    }
 
-    private fun setOnClick(){
-        binding?.apply {
-            testBtn.setOnClickListener {
-                val dialogError = ErrorDialog()
-                dialogError.show(requireActivity().supportFragmentManager, "dialogError")
-            }
-
-        }
-
-    }
 
 }
+
+

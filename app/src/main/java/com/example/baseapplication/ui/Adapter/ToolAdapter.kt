@@ -9,7 +9,7 @@ import android.widget.TextView
 import android.widget.Toast
 import androidx.recyclerview.widget.RecyclerView
 import com.example.baseapplication.R
-import com.example.baseapplication.ui.model.ToolItem
+import com.example.baseapplication.ui.data.ToolItem
 
 class ToolAdapter(
     private val list: List<ToolItem>,

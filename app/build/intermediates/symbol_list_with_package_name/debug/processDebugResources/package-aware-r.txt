@@ -3111,6 +3111,8 @@ drawable btn_radio_off_mtrl
 drawable btn_radio_off_to_on_mtrl_animation
 drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
+drawable business_loan
+drawable car_loan
 drawable da8cf81f5e042cf392628611fed449f077127394
 drawable design_fab_background
 drawable design_ic_visibility
@@ -3118,13 +3120,17 @@ drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
 drawable detailfeed_background
+drawable discount
 drawable dot_background
 drawable empty_star
+drawable fixed_loan
 drawable flag1
 drawable flag2
 drawable flag3
 drawable flag4
+drawable frame_353
 drawable green_flag
+drawable gsp_loan
 drawable ic_arrow
 drawable ic_arrow_back_black_24
 drawable ic_bell
@@ -3137,6 +3143,7 @@ drawable ic_call_decline_low
 drawable ic_clear_black_24
 drawable ic_clock_black_24dp
 drawable ic_done
+drawable ic_done_gray
 drawable ic_exit
 drawable ic_feedb
 drawable ic_his
@@ -3152,6 +3159,8 @@ drawable ic_mtrl_checked_circle
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
+drawable ic_next
+drawable ic_next_gray
 drawable ic_no_internet
 drawable ic_not_done
 drawable ic_policy
@@ -3173,12 +3182,15 @@ drawable img_currency
 drawable img_inr
 drawable img_note
 drawable img_php
+drawable img_save_money
 drawable img_thb
 drawable img_time_zone
 drawable img_usa
 drawable indeterminate_static
 drawable intro2_img
+drawable intro_ic
 drawable item_border
+drawable item_border1
 drawable m3_avd_hide_password
 drawable m3_avd_show_password
 drawable m3_bottom_sheet_drag_handle
@@ -3253,6 +3265,7 @@ drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
 drawable radio_button
 drawable radio_button_selected
+drawable recurring_loan
 drawable selector_optfeed_background
 drawable selector_sendbtn
 drawable spring_dot_background
@@ -3262,6 +3275,7 @@ drawable test_level_drawable
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
 drawable top_bar_bg
+drawable vat
 drawable worm_dot_background
 drawable worm_dot_stroke_background
 drawable x_close
@@ -3518,6 +3532,7 @@ id hide_in_inspector_tag
 id hideable
 id home
 id homeAsUp
+id homeRecyclerview
 id honorRequest
 id horizontal
 id horizontal_only
@@ -3529,6 +3544,7 @@ id ifRoom
 id ignore
 id ignoreRequest
 id image
+id img_item_home
 id img_tool
 id immediateStop
 id included
@@ -3626,6 +3642,7 @@ id mtrl_picker_text_input_range_start
 id mtrl_picker_title_text
 id mtrl_view_tag_bottom_padding
 id multiply
+id name_item_home
 id nav_controller_view_tag
 id nav_graph
 id nav_host_fragment_container
@@ -3794,7 +3811,6 @@ id tag_transition_group
 id tag_unhandled_key_event_manager
 id tag_unhandled_key_listeners
 id tag_window_insets_animation_callback
-id testBtn
 id text
 id text2
 id textEnd
@@ -3823,6 +3839,8 @@ id tool_item
 id tool_name
 id tool_name_detail
 id tool_recycler
+id toolbar_img
+id toolbar_text
 id top
 id topPanel
 id touch_outside
@@ -3837,7 +3855,6 @@ id transition_position
 id transition_scene_layoutid_cache
 id transition_transform
 id triangle
-id tvShow
 id txtTitle
 id unchecked
 id uniform
@@ -4019,10 +4036,11 @@ layout fragment_tool_item
 layout fragment_tools
 layout ime_base_split_test_activity
 layout ime_secondary_split_test_activity
-layout iteam_intro1
-layout iteam_intro2
-layout iteam_intro3
-layout iteam_intro4
+layout item_home
+layout item_intro1
+layout item_intro2
+layout item_intro3
+layout item_intro4
 layout language_item
 layout m3_alert_dialog
 layout m3_alert_dialog_actions
@@ -4086,6 +4104,7 @@ layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
 layout spring_dot_layout
 layout support_simple_spinner_dropdown_item
+layout tool_bar
 layout viewholder_settings
 layout worm_dot_layout
 menu menu_navigation

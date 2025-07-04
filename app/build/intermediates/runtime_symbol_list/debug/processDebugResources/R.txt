@@ -3110,6 +3110,8 @@ int drawable btn_radio_off_mtrl 0x7f070088
 int drawable btn_radio_off_to_on_mtrl_animation 0x7f070089
 int drawable btn_radio_on_mtrl 0x7f07008a
 int drawable btn_radio_on_to_off_mtrl_animation 0x7f07008b
+int drawable business_loan 0x7f070127
+int drawable car_loan 0x7f070128
 int drawable da8cf81f5e042cf392628611fed449f077127394 0x7f07008c
 int drawable design_fab_background 0x7f07008d
 int drawable design_ic_visibility 0x7f07008e
@@ -3117,13 +3119,17 @@ int drawable design_ic_visibility_off 0x7f07008f
 int drawable design_password_eye 0x7f070090
 int drawable design_snackbar_background 0x7f070091
 int drawable detailfeed_background 0x7f070092
+int drawable discount 0x7f070129
 int drawable dot_background 0x7f070093
 int drawable empty_star 0x7f070094
+int drawable fixed_loan 0x7f07012a
 int drawable flag1 0x7f070095
 int drawable flag2 0x7f070096
 int drawable flag3 0x7f070097
 int drawable flag4 0x7f070098
+int drawable frame_353 0x7f07012b
 int drawable green_flag 0x7f070099
+int drawable gsp_loan 0x7f07012c
 int drawable ic_arrow 0x7f07009a
 int drawable ic_arrow_back_black_24 0x7f07009b
 int drawable ic_bell 0x7f07009c
@@ -3136,6 +3142,7 @@ int drawable ic_call_decline_low 0x7f0700a2
 int drawable ic_clear_black_24 0x7f0700a3
 int drawable ic_clock_black_24dp 0x7f0700a4
 int drawable ic_done 0x7f0700a5
+int drawable ic_done_gray 0x7f07012d
 int drawable ic_exit 0x7f0700a6
 int drawable ic_feedb 0x7f0700a7
 int drawable ic_his 0x7f0700a8
@@ -3151,6 +3158,8 @@ int drawable ic_mtrl_checked_circle 0x7f0700b1
 int drawable ic_mtrl_chip_checked_black 0x7f0700b2
 int drawable ic_mtrl_chip_checked_circle 0x7f0700b3
 int drawable ic_mtrl_chip_close_circle 0x7f0700b4
+int drawable ic_next 0x7f07012e
+int drawable ic_next_gray 0x7f07012f
 int drawable ic_no_internet 0x7f0700b5
 int drawable ic_not_done 0x7f0700b6
 int drawable ic_policy 0x7f0700b7
@@ -3172,12 +3181,15 @@ int drawable img_currency 0x7f070123
 int drawable img_inr 0x7f0700c5
 int drawable img_note 0x7f070124
 int drawable img_php 0x7f0700c6
+int drawable img_save_money 0x7f070130
 int drawable img_thb 0x7f0700c7
 int drawable img_time_zone 0x7f070125
 int drawable img_usa 0x7f0700c8
 int drawable indeterminate_static 0x7f0700c9
 int drawable intro2_img 0x7f0700ca
+int drawable intro_ic 0x7f070126
 int drawable item_border 0x7f0700cb
+int drawable item_border1 0x7f070131
 int drawable m3_avd_hide_password 0x7f0700cc
 int drawable m3_avd_show_password 0x7f0700cd
 int drawable m3_bottom_sheet_drag_handle 0x7f0700ce
@@ -3252,6 +3264,7 @@ int drawable notification_tile_bg 0x7f070112
 int drawable notify_panel_notification_icon_bg 0x7f070113
 int drawable radio_button 0x7f070114
 int drawable radio_button_selected 0x7f070115
+int drawable recurring_loan 0x7f070132
 int drawable selector_optfeed_background 0x7f070116
 int drawable selector_sendbtn 0x7f070117
 int drawable spring_dot_background 0x7f070118
@@ -3261,6 +3274,7 @@ int drawable test_level_drawable 0x7f07011b
 int drawable tooltip_frame_dark 0x7f07011c
 int drawable tooltip_frame_light 0x7f07011d
 int drawable top_bar_bg 0x7f07011e
+int drawable vat 0x7f070133
 int drawable worm_dot_background 0x7f07011f
 int drawable worm_dot_stroke_background 0x7f070120
 int drawable x_close 0x7f070121
@@ -3517,6 +3531,7 @@ int id hide_in_inspector_tag 0x7f0800f8
 int id hideable 0x7f0800f9
 int id home 0x7f0800fa
 int id homeAsUp 0x7f0800fb
+int id homeRecyclerview 0x7f08025c
 int id honorRequest 0x7f0800fc
 int id horizontal 0x7f0800fd
 int id horizontal_only 0x7f0800fe
@@ -3528,6 +3543,7 @@ int id ifRoom 0x7f080103
 int id ignore 0x7f080104
 int id ignoreRequest 0x7f080105
 int id image 0x7f080106
+int id img_item_home 0x7f08025d
 int id img_tool 0x7f080254
 int id immediateStop 0x7f080107
 int id included 0x7f080108
@@ -3625,6 +3641,7 @@ int id mtrl_picker_text_input_range_start 0x7f080163
 int id mtrl_picker_title_text 0x7f080164
 int id mtrl_view_tag_bottom_padding 0x7f080165
 int id multiply 0x7f080166
+int id name_item_home 0x7f08025e
 int id nav_controller_view_tag 0x7f080167
 int id nav_graph 0x7f080168
 int id nav_host_fragment_container 0x7f080169
@@ -3793,7 +3810,6 @@ int id tag_transition_group 0x7f08020b
 int id tag_unhandled_key_event_manager 0x7f08020c
 int id tag_unhandled_key_listeners 0x7f08020d
 int id tag_window_insets_animation_callback 0x7f08020e
-int id testBtn 0x7f08020f
 int id text 0x7f080210
 int id text2 0x7f080211
 int id textEnd 0x7f080212
@@ -3822,6 +3838,8 @@ int id tool_item 0x7f080258
 int id tool_name 0x7f080255
 int id tool_name_detail 0x7f080256
 int id tool_recycler 0x7f080257
+int id toolbar_img 0x7f08025a
+int id toolbar_text 0x7f08025b
 int id top 0x7f080228
 int id topPanel 0x7f080229
 int id touch_outside 0x7f08022a
@@ -3836,7 +3854,6 @@ int id transition_position 0x7f080232
 int id transition_scene_layoutid_cache 0x7f080233
 int id transition_transform 0x7f080234
 int id triangle 0x7f080235
-int id tvShow 0x7f080236
 int id txtTitle 0x7f080237
 int id unchecked 0x7f080238
 int id uniform 0x7f080239
@@ -4018,10 +4035,11 @@ int layout fragment_tool_item 0x7f0b0085
 int layout fragment_tools 0x7f0b003d
 int layout ime_base_split_test_activity 0x7f0b003e
 int layout ime_secondary_split_test_activity 0x7f0b003f
-int layout iteam_intro1 0x7f0b0040
-int layout iteam_intro2 0x7f0b0041
-int layout iteam_intro3 0x7f0b0042
-int layout iteam_intro4 0x7f0b0043
+int layout item_home 0x7f0b0088
+int layout item_intro1 0x7f0b0089
+int layout item_intro2 0x7f0b008a
+int layout item_intro3 0x7f0b008b
+int layout item_intro4 0x7f0b008c
 int layout language_item 0x7f0b0044
 int layout m3_alert_dialog 0x7f0b0045
 int layout m3_alert_dialog_actions 0x7f0b0046
@@ -4085,6 +4103,7 @@ int layout select_dialog_multichoice_material 0x7f0b007f
 int layout select_dialog_singlechoice_material 0x7f0b0080
 int layout spring_dot_layout 0x7f0b0081
 int layout support_simple_spinner_dropdown_item 0x7f0b0082
+int layout tool_bar 0x7f0b0087
 int layout viewholder_settings 0x7f0b0083
 int layout worm_dot_layout 0x7f0b0084
 int menu menu_navigation 0x7f0d0000

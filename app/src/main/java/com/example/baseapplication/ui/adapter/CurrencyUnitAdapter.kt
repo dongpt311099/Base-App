@@ -7,7 +7,7 @@ import android.widget.ImageView
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 import com.example.baseapplication.R
-import com.example.baseapplication.ui.model.CurrencyUnitItem
+import com.example.baseapplication.ui.data.CurrencyUnitItem
 
 class CurrencyUnitAdapter (
     private val currencyUnit : List<CurrencyUnitItem>,

@@ -11,7 +11,7 @@ import com.example.baseapplication.R
 import com.example.baseapplication.databinding.ActivityFeedBackBinding
 import com.example.baseapplication.databinding.FragmentToolsBinding
 import com.example.baseapplication.ui.adapter.ToolAdapter
-import com.example.baseapplication.ui.model.ToolItem
+import com.example.baseapplication.ui.data.ToolItem
 
 class ToolsFragment : Fragment() {
     private lateinit var binding: FragmentToolsBinding

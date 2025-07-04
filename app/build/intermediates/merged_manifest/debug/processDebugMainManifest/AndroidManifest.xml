@@ -28,6 +28,9 @@
         android:testOnly="true"
         android:theme="@style/Theme.BaseApplication" >
         <activity
+            android:name="com.example.baseapplication.HomeActivity"
+            android:exported="false" />
+        <activity
             android:name="com.example.baseapplication.ui.activity.FeedBackActivity"
             android:exported="false" />
         <activity
