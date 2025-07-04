@@ -4,6 +4,7 @@ import android.app.DatePickerDialog
 import android.app.TimePickerDialog
 import android.os.Bundle
 import android.widget.Adapter
+import android.widget.AdapterView
 import androidx.activity.enableEdgeToEdge
 import com.example.baseapplication.R
 import com.example.baseapplication.databinding.ActivityTimeZoneBinding
@@ -35,9 +36,6 @@ class TimeZoneActivity : BaseActivity() {
 
         setOnClick()
 
-        binding.timezBeforeTxt.text=binding.timezBefore.selectedItem.toString()
-        binding.timezAfterTxt.text=binding.timezAfter.selectedItem.toString()
-
     }
 
     private fun setSpinner(){
@@ -48,6 +46,22 @@ class TimeZoneActivity : BaseActivity() {
         val adapter = TimeZSpinnerAdapter(this,timezones)
         binding.timezBefore.adapter = adapter
         binding.timezAfter.adapter = adapter
+
+//        binding.timeBefore.onItemSelectedListener = object : AdapterView.OnItemSelectedListener{
+//            override fun onItemSelected(
+//                parent: AdapterView<*>,
+//                view: View?,
+//                position: Int,
+//                id: Long
+//            ) {
+//                val selectedItem = parent.getItemAtPosition(position).toString()
+//                Toast.makeText(applicationContext, "Bạn chọn: $selectedItem", Toast.LENGTH_SHORT).show()
+//            }
+//
+//            override fun onNothingSelected(parent: AdapterView<*>) {
+//                // không làm gì nếu không chọn gì
+//            }
+//        }
     }
     
     private fun openTimeDialog(){
@@ -82,6 +96,9 @@ class TimeZoneActivity : BaseActivity() {
         binding.exchangeBtn.setOnClickListener {
             binding.timeAfter.text=binding.timeBefore.text
             binding.dateAfter.text=binding.dateBefore.text
+        }
+        binding.returnBtn.setOnClickListener {
+            finish()
         }
     }
 }

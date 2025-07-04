@@ -9,31 +9,28 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="95dp"
+        android:orientation="horizontal"
+        android:id="@+id/background"
         android:background="@drawable/background"
-        android:id="@+id/background">
-        <LinearLayout
+        android:gravity="bottom"
+        android:paddingStart="16dp"
+        android:paddingBottom="22.5dp">
+        <ImageView
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:src="@drawable/icon_app"
+            android:layout_marginEnd="12dp"
+            />
+        <TextView
+            android:id="@+id/title"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="48dp"
-            android:layout_marginStart="16dp"
-            android:orientation="horizontal">
-            <ImageView
-                android:layout_width="24dp"
-                android:layout_height="24dp"
-                android:src="@drawable/icon_app"
-                android:layout_marginEnd="12dp"
-                />
-            <TextView
-                android:id="@+id/title"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:text="@string/finance"
-                android:textAllCaps="true"
-                android:textSize="18sp"
-                android:textStyle="bold"
-                android:textColor="@color/white"
-                />
-        </LinearLayout>
+            android:text="@string/finance"
+            android:textAllCaps="true"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textColor="@color/white"
+            />
     </LinearLayout>
 
     <FrameLayout

@@ -20,7 +20,7 @@ import com.example.baseapplication.R
 import com.example.baseapplication.databinding.ActivityCurrencyUnitBinding
 import com.example.baseapplication.ui.adapter.CurrencyUnitAdapter
 import com.example.baseapplication.ui.adapter.LanguageAdapter
-import com.example.baseapplication.ui.model.CurrencyUnitItem
+import com.example.baseapplication.ui.data.CurrencyUnitItem
 
 class Currency_unit : BaseActivity() {
 
@@ -30,6 +30,9 @@ class Currency_unit : BaseActivity() {
         binding= ActivityCurrencyUnitBinding.inflate(layoutInflater)
         enableEdgeToEdge()
         setContentView(binding.root)
+
+        binding.currencyDone.isEnabled = false
+
         val listCurrency = listOf(
             CurrencyUnitItem("INR", R.drawable.img_inr, "Indian Rupee"),
             CurrencyUnitItem("USD", R.drawable.img_usa, "United States Dollar"),
@@ -45,8 +48,8 @@ class Currency_unit : BaseActivity() {
         val recyclerView = binding.listCurrency
         recyclerView.layoutManager = LinearLayoutManager(this)
         recyclerView.adapter = CurrencyUnitAdapter(listCurrency){
-            selectedItem-> Toast.makeText(this,"${selectedItem.name}",Toast.LENGTH_SHORT).show()
             binding.currencyDone.setImageResource(R.drawable.ic_done)
+            binding.currencyDone.isEnabled = true
         }
 
         binding.currencyDone.setOnClickListener {

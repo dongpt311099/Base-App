@@ -27,9 +27,11 @@ class CurrencyExchangeActivity : BaseActivity() {
         val countries=listOf(
             Country.VIETNAM,
             Country.USA,
+            Country.CANADIAN
         )
         val adapter = CountrySpinnerAdapter(this, countries)
-        binding.countryBefore.adapter = adapter
+        binding.countryBefore.setAdapter(adapter)
+        binding.countryAfter.setAdapter(adapter)
     }
 
     private fun setInputField(){

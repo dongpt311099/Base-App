@@ -14,6 +14,8 @@ class CountrySpinnerAdapter(
     private val countries: List<Country>
 ) : BaseAdapter() {
 
+    private val inflater = LayoutInflater.from(context)
+
     override fun getCount() = countries.size
 
     override fun getItem(position: Int) = countries[position]
@@ -21,7 +23,13 @@ class CountrySpinnerAdapter(
     override fun getItemId(position: Int) = position.toLong()
 
     override fun getView(position: Int, convertView: View?, parent: ViewGroup): View {
-        return createView(position, convertView, parent)
+        val view = convertView ?: inflater.inflate(R.layout.spinner_country_selected, parent, false)
+        val flag=view.findViewById<ImageView>(R.id.flag)
+        val sym=view.findViewById<TextView>(R.id.symbol)
+        val country = countries[position]
+        sym.text=country.cur_symbol
+        flag.setImageResource(country.iconRes)
+        return view
     }
 
     override fun getDropDownView(position: Int, convertView: View?, parent: ViewGroup): View {

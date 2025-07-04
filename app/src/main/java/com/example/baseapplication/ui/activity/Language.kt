@@ -9,7 +9,7 @@ import androidx.core.view.WindowInsetsCompat
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.example.baseapplication.ui.adapter.LanguageAdapter
-import com.example.baseapplication.ui.model.LanguageItem
+import com.example.baseapplication.ui.data.LanguageItem
 import android.content.Intent
 import com.example.baseapplication.R
 import com.example.baseapplication.databinding.ActivityLanguageBinding

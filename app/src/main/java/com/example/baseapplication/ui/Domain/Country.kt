@@ -5,5 +5,6 @@ import com.example.baseapplication.R
 
 enum class Country(val currency:String, val cur_symbol: String, val iconRes:Int) {
     VIETNAM("VietNamDong","VND", R.drawable.ic_vietnam),
-    USA("USD","$",R.drawable.img_usa),
+    USA("USD","$",R.drawable.ic_usa),
+    CANADIAN("Canadian","$",R.drawable.ic_canadian)
 }

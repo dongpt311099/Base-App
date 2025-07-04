@@ -13,6 +13,6 @@ class IntroFragment1: Fragment() {
         container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
-        return inflater.inflate(R.layout.iteam_intro1,container,false)
+        return inflater.inflate(R.layout.item_intro1,container,false)
     }
 }

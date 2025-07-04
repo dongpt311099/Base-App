@@ -20,11 +20,24 @@ class FixedDepositActivity : BaseActivity() {
         super.onCreate(savedInstanceState)
         binding= ActivityFixedDepositBinding.inflate(layoutInflater)
         enableEdgeToEdge()
-        setContentView(R.layout.activity_fixed_deposit)
+        setContentView(binding.root)
         setSpinner()
-
+        setOnClick()
         binding.dateLayout.setOnClickListener {
             openDateDialog()
+        }
+    }
+
+    private fun setOnClick(){
+        binding.returnBtn.setOnClickListener {
+            finish()
+        }
+        binding.resetBtn.setOnClickListener {
+            binding.investmentTxt.text=null
+            binding.interestTxt.text=null
+            binding.compoundedTxt.text=null
+            binding.fdTxt.text=null
+            binding.startDate.text=null
         }
     }
 
@@ -44,20 +57,18 @@ class FixedDepositActivity : BaseActivity() {
         val optionsCompound=arrayOf("1", "4","12")
         val CompoundAdapter= ArrayAdapter(this, android.R.layout.simple_spinner_item, optionsCompound)
         fdAdapter.setDropDownViewResource(R.layout.spinner_item_basic)
-        binding.fdSpinner.adapter= CompoundAdapter
+        binding.compoundedSpinner.adapter= CompoundAdapter
     }
 
+
     private fun openDateDialog(){
-        val config = resources.configuration
-        config.setLocale(Locale.ENGLISH)
-        val context = createConfigurationContext(config)
 
         val calendar = Calendar.getInstance()
         val year = calendar.get(Calendar.YEAR)
         val month = calendar.get(Calendar.MONTH)
         val day = calendar.get(Calendar.DAY_OF_MONTH)
 
-        val dialog= DatePickerDialog(context, R.style.DateTimeDialogTheme, DatePickerDialog.OnDateSetListener{_, selectedYear, selectedMonth,selectedDay->
+        val dialog= DatePickerDialog(this, R.style.DateTimeDialogTheme, DatePickerDialog.OnDateSetListener{_, selectedYear, selectedMonth,selectedDay->
             val selectedDate = Calendar.getInstance()
             selectedDate.set(selectedYear, selectedMonth, selectedDay)
 

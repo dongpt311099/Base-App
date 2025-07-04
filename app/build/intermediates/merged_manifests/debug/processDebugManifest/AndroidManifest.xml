@@ -28,6 +28,12 @@
         android:testOnly="true"
         android:theme="@style/Theme.BaseApplication" >
         <activity
+            android:name="com.example.baseapplication.PersonalLoanActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.baseapplication.ui.activity.FixedDepositActivity"
+            android:exported="false" />
+        <activity
             android:name="com.example.baseapplication.ui.activity.TimeZoneActivity"
             android:exported="false" />
         <activity
@@ -53,7 +59,7 @@
             android:name="com.example.baseapplication.ui.activity.ContentActivity"
             android:exported="false" />
         <activity
-            android:name="com.example.baseapplication.ui.activity.FixedDepositActivity"
+            android:name="com.example.baseapplication.ui.activity.Splash"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

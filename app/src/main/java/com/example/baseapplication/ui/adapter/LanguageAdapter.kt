@@ -7,7 +7,7 @@ import android.widget.ImageView
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 import com.example.baseapplication.R
-import com.example.baseapplication.ui.model.LanguageItem
+import com.example.baseapplication.ui.data.LanguageItem
 
 class LanguageAdapter(
     private val languageList: List<LanguageItem>
